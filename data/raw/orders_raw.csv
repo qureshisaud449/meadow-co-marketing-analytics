@@ -1,0 +1,1118 @@
+order_id,customer_id,order_date,channel,device,region,segment,product_category,quantity,gross_revenue,discount_amount,net_revenue,is_new_customer
+ORD-100563,CUST-10282,2025-10-26,Google Shopping,Tablet,Scotland,Anti-Ageing,Serum,2,70.97,0.0,70.97,False
+ORD-101024,CUST-10096,2026-05-28,meta ads,Mobile,North West,Anti-Ageing,Serum,1,48.95,0.0,48.95,False
+ORD-100198,CUST-10035,20/04/2025,Direct,Tablet,North West,Anti-Ageing,Set/Bundle,3,81.88,8.19,73.69,False
+ORD-100707,CUST-10162,2025-12-21,Google Shopping,Desktop,Scotland,Sensitive Skin  ,Moisturiser,1,43.86,6.01,37.85,False
+ORD-100086,CUST-10084,2025-02-22,Google  Search,Mobile,Scotland,Anti-Ageing,SPF,2,70.1,7.01,63.09,True
+ORD-101013,CUST-10743,24/05/2026,Google  Search,Desktop,London,Acne & Blemish,Cleanser,1,27.57,0.0,27.57,True
+ORD-100491,CUST-10401,2025-09-14,Google Search,Desktop,London,Anti-Ageing,Serum,1,43.23,4.32,38.91,True
+ORD-100505,CUST-10321,2025-09-22,Email,Desktop,South East,Sensitive Skin,Cleanser,1,30.72,0.0,30.72,False
+ORD-101085,CUST-10789,21/06/2026,Google  Search,Mobile,Other UK,Anti-Ageing,Serum,1,46.1,0.0,46.1,True
+ORD-100756,CUST-10094,21/01/2026,google search,Mobile,Other UK,Acne & Blemish,Moisturiser,2,43.05,0.0,43.05,False
+ORD-100826,CUST-10034,2026-03-05,Affiliate,Desktop,South East,Sensitive Skin,Moisturiser,2,66.89,0.0,66.89,False
+ORD-100493,CUST-10403,14/09/2025,FB/IG Ads,Mobile,North West,Anti-Ageing,Serum,2,67.26,0.0,-12.5,True
+ORD-100059,CUST-10057,2025-02-09,Google Search,Mobile,London,Acne & Blemish,Set/Bundle,2,45.22,0.0,45.22,True
+ORD-100057,CUST-10055,07/02/2025,Organic Search,Desktop,South East,Acne & Blemish,Mask,1,25.83,0.0,25.83,True
+ORD-100205,CUST-10187,2025-04-23,Direct,Desktop,Other UK,Hydration & Glow,Moisturiser,2,56.81,5.68,51.13,True
+ORD-100445,CUST-10367,2025-08-18,Affiliate,Mobile,London,Hydration & Glow,Mask,2,52.8,0.0,52.8,True
+ORD-100936,CUST-10029,24/04/2026,Google Shopping,Mobile,London,Acne & Blemish,SPF,3,56.25,0.0,56.25,False
+ORD-100692,CUST-10528,14/12/2025,Direct,Mobile,Other UK,Sensitive Skin,Serum,2,59.56,7.34,52.22,True
+ORD-100838,CUST-10628,2026-03-12,Google Search,Desktop,London,Anti-Ageing,Cleanser,1,52.22,0.0,52.22,True
+ORD-100429,CUST-10356,2025-08-08,Organic Search,Tablet,Scotland,Hydration & Glow,Moisturiser,1,27.29,2.73,24.56,True
+ORD-100130,CUST-10126,2025-03-18,Email,Mobile,North West,Acne & Blemish,Cleanser,1,26.63,2.66,23.97,True
+ORD-100335,CUST-10286,2025-06-17,direct,Mobile,Other UK,Acne & Blemish,Cleanser,1,25.24,0.0,25.24,True
+ORD-100334,CUST-10285,17/06/2025,EMAIL,Mobile,South East,Anti-Ageing,Moisturiser,1,49.69,4.97,44.72,True
+ORD-100854,CUST-10625,2026-03-20,Affiliate,Desktop,North West,Anti-Ageing,SPF,1,45.18,0.0,45.18,False
+ORD-100559,CUST-10211,2025-10-22,Meta Ads,Mobile,South East,Anti-Ageing,Moisturiser,1,46.97,0.0,46.97,False
+ORD-100507,CUST-10412,2025-09-23,Google Shopping,Mobile,London,Sensitive Skin,Cleanser,3,81.62,0.0,81.62,True
+ORD-101040,CUST-10758,2026-06-01,Meta Ads,Desktop,Scotland,Hydration & Glow,Serum,3,69.48,0.0,69.48,True
+ORD-100052,CUST-10050,2025-02-04,Google Search,Desktop,North West,Anti-Ageing,Moisturiser,1,44.62,0.0,44.62,True
+ORD-100905,CUST-10676,2026-04-12,Direct,Mobile,London,Hydration & Glow,Mask,1,35.45,0.0,35.45,True
+ORD-100182,CUST-10168,2025-04-11,Meta Ads,Desktop,Scotland,Anti-Ageing,Serum,3,85.63,0.0,85.63,True
+ORD-100010,CUST-10010,2025-01-06,Email,Mobile,London,Hydration & Glow,Moisturiser,1,34.9,3.49,31.41,True
+ORD-100814,CUST-10180,2026-02-27,Organic Search,Desktop,South East,Anti-Ageing,Moisturiser,1,52.83,0.0,52.83,False
+ORD-100591,CUST-10470,2025-11-09,GOOGLE SEARCH,Mobile,London,Anti-Ageing,Serum,1,39.96,0.0,39.96,True
+ORD-100245,CUST-10217,2025-05-07,Organic Search,Mobile,London,Acne & Blemish,Cleanser,2,34.11,0.0,34.11,True
+ORD-100766,CUST-10578,2026-01-31,Google Search,Mobile,Scotland,Acne & Blemish,Serum,1,23.77,2.38,21.39,True
+ORD-101089,CUST-10793,2026-06-23,Facebook/Instagram Ads,Desktop,London,Anti-Ageing,Set/Bundle,1,56.02,0.0,56.02,True
+ORD-100911,CUST-10679,15/04/2026,Direct,Desktop,North West,Anti-Ageing,Mask,1,45.31,0.0,45.31,True
+ORD-101105,CUST-10806,2026-06-29,Google Search,Desktop,London,Hydration & Glow,Serum,3,59.46,0.0,59.46,True
+ORD-100017,CUST-10017,10/01/2025,Meta Ads,Mobile,London,Sensitive Skin,Moisturiser,2,46.21,0.0,46.21,True
+ORD-100577,CUST-10214,2025-11-01,Direct,Mobile,London,Hydration & Glow,Moisturiser,1,32.21,3.22,28.99,False
+ORD-100667,CUST-10515,03/12/2025,Google Shopping,Desktop,South East,Hydration & Glow,Serum,3,63.32,8.32,55.0,True
+ORD-100676,CUST-10378,2025-12-06,Google  Search,Mobile,London,Acne & Blemish,Mask,1,31.5,5.23,26.27,False
+ORD-100827,CUST-10620,2026-03-05,Organic Search,Mobile,Scotland,Anti-Ageing,Serum,2,66.57,6.66,59.91,True
+ORD-100184,CUST-10170,2025-04-13,Google Search,Desktop,South East,Hydration & Glow,Moisturiser,1,29.77,0.0,29.77,True
+ORD-100313,CUST-10267,04/06/2025,Google Shopping,Mobile,London,Anti-Ageing,Set/Bundle,1,44.3,0.0,44.3,True
+ORD-100878,CUST-10657,28/03/2026,Organic Search,Mobile,North West,Sensitive Skin,Serum,1,37.77,0.0,37.77,True
+ORD-100117,CUST-10113,2025-03-10,Organic Search,Desktop,South East,Sensitive Skin,Moisturiser,1,34.29,0.0,34.29,True
+ORD-101066,CUST-10131,12/06/2026,meta ads,Desktop,Scotland,Anti-Ageing,Moisturiser,2,67.11,0.0,67.11,False
+ORD-100268,CUST-10235,2025-05-17,SEO,Desktop,London,Acne & Blemish,Set/Bundle,3,60.1,0.0,60.1,True
+ORD-100862,CUST-10615,24/03/2026,Organic_Search,Desktop,South East,Hydration & Glow,Serum,1,26.37,0.0,26.37,False
+ORD-100239,CUST-10213,2025-05-04,email,Desktop,South East,Hydration & Glow,Mask,1,28.67,0.0,28.67,True
+ORD-100265,CUST-10232,2025-05-16,Email,Desktop,Other UK,Anti-Ageing,Mask,1,39.01,3.9,35.11,True
+ORD-100885,CUST-10663,2026-04-01,Email,Desktop,South East,Hydration & Glow,SPF,1,32.97,0.0,0.0,True
+ORD-100342,CUST-10292,2025-06-19,Meta Ads,Desktop,London,Hydration & Glow,Moisturiser,1,29.42,0.0,29.42,True
+ORD-100110,CUST-10106,2025-03-07,Email,Desktop,South East,Anti-Ageing,SPF,2,66.15,0.0,66.15,True
+ORD-100082,CUST-10080,2025-02-19,Email,Desktop,South East,Hydration & Glow,SPF,2,50.52,5.05,45.47,True
+ORD-100504,CUST-10178,22/09/2025,Google Shopping,Mobile,South East,Hydration & Glow,Moisturiser,1,38.68,0.0,38.68,False
+ORD-100430,CUST-10357,2025-08-09,Meta Ads,Tablet,North West,Anti-Ageing,Cleanser,1,43.25,0.0,43.25,True
+ORD-100104,CUST-10102,2025-03-03,Google  Search,Mobile,London,Sensitive Skin,Mask,1,31.52,3.15,28.37,True
+ORD-100457,CUST-10375,2025-08-24,Affiliate,Desktop,London,Sensitive Skin,Moisturiser,1,35.08,0.0,35.08,True
+ORD-100916,CUST-10682,17/04/2026,Google Search,Mobile,Scotland,Acne & Blemish,Mask,1,22.74,0.0,22.74,True
+ORD-100208,CUST-10190,2025-04-23,Organic Search,Desktop,South East,Sensitive Skin,Set/Bundle,1,29.03,0.0,29.03,True
+ORD-100147,CUST-10140,2025-03-27,Organic Search,Tablet,South East,Hydration & Glow,Cleanser,1,32.9,0.0,32.9,True
+ORD-100412,CUST-10159,2025-07-28,Meta Ads,Desktop,London,Hydration & Glow,Moisturiser,2,46.69,0.0,46.69,False
+ORD-100539,CUST-10434,2025-10-10,Meta Ads,Mobile,Other UK,Hydration & Glow,SPF,1,30.43,0.0,30.43,True
+ORD-100092,CUST-10090,25/02/2025,Organic Search,Mobile,Other UK,Hydration & Glow,Cleanser,1,31.32,0.0,31.32,True
+ORD-101003,CUST-10738,20/05/2026,Email,Mobile,Scotland,Sensitive Skin,Moisturiser,2,44.96,0.0,44.96,True
+ORD-100540,CUST-10435,10/10/2025,Affiliate,Mobile,North West,Sensitive Skin,Moisturiser,1,40.51,0.0,40.51,True
+ORD-100588,CUST-10467,07/11/2025,Google_Shopping,Mobile,South East,Hydration & Glow,Moisturiser,2,53.47,0.0,53.47,True
+ORD-100754,CUST-10569,2026-01-19,Organic Search,Desktop,London,Anti-Ageing,Moisturiser,1,42.2,4.22,37.98,True
+ORD-100499,CUST-10201,2025-09-18,Google Search,Desktop,London,Hydration & Glow,SPF,2,52.22,0.0,52.22,False
+ORD-100040,CUST-10039,2025-01-29,Direct,Mobile,Scotland,Hydration & Glow,SPF,1,37.02,0.0,37.02,True
+ORD-101062,CUST-10773,10/06/2026,Meta Ads,Mobile,Other UK,Hydration & Glow,Cleanser,2,44.94,4.49,40.45,True
+ORD-100943,CUST-10697,2026-04-26,Google Shopping,Mobile,London,Acne & Blemish,Set/Bundle,1,26.23,0.0,26.23,True
+ORD-100779,CUST-10589,2026-02-10,Google Search,Mobile,North West,Hydration & Glow,Serum,2,42.9,4.29,38.61,True
+ORD-100719,CUST-10547,30/12/2025,Google Search,Mobile,London,Sensitive Skin,Cleanser,1,39.4,0.0,39.4,True
+ORD-100662,CUST-10512,2025-12-02,GOOGLE SEARCH,Mobile,South East,Acne & Blemish,Mask,2,43.57,7.47,36.1,True
+ORD-101037,CUST-10756,2026-06-01,Email,Tablet,London,Acne & Blemish,Cleanser,2,47.08,0.0,47.08,True
+ORD-100771,CUST-10581,2026-02-05,Meta Ads,Desktop,London,Hydration & Glow,Set/Bundle,2,49.13,0.0,49.13,True
+ORD-100462,CUST-10380,29/08/2025,Organic Search,Desktop,South East,Hydration & Glow,SPF,2,50.46,0.0,50.46,True
+ORD-100091,CUST-10089,2025-02-24,email,Desktop,London,Sensitive Skin,Moisturiser,1,35.75,0.0,35.75,True
+ORD-100975,CUST-10721,2026-05-12,Direct,Desktop,Scotland,Acne & Blemish,Serum,1,28.19,2.82,25.37,True
+ORD-100367,CUST-10312,2025-07-01,Email,Desktop,North West,Acne & Blemish,Mask,1,26.38,0.0,26.38,True
+ORD-100892,CUST-10667,2026-04-04,SEO,Mobile,South East,Acne & Blemish,Serum,1,22.38,2.24,20.14,True
+ORD-100690,CUST-10104,12/12/2025,Meta_Ads,Mobile,Scotland,Anti-Ageing,SPF,1,42.87,7.4,35.47,False
+ORD-100580,CUST-10461,2025-11-03,Meta_Ads,Desktop,South East,Acne & Blemish,Moisturiser,2,37.97,0.0,37.97,True
+ORD-100755,CUST-10570,2026-01-20,Email Marketing,Desktop,North West,Sensitive Skin,Cleanser,1,33.73,3.37,30.36,True
+ORD-100999,CUST-10737,19/05/2026,Meta Ads,Desktop,Other UK,Acne & Blemish,SPF,1,22.78,0.0,22.78,True
+ORD-100383,CUST-10280,09/07/2025,FB/IG Ads,Desktop,Scotland,Acne & Blemish,SPF,2,48.8,0.0,48.8,False
+ORD-100879,CUST-10658,2026-03-29,Direct,Desktop,Scotland,Hydration & Glow,Set/Bundle,1,25.14,2.51,22.63,True
+ORD-101074,CUST-10301,16/06/2026,Google Search,Mobile,South East,Anti-Ageing,Cleanser,3,77.2,0.0,77.2,False
+ORD-100388,CUST-10330,2025-07-14,Meta Ads,Desktop,London,Acne & Blemish,Cleanser,1,27.68,0.0,27.68,True
+ORD-100041,CUST-10040,30/01/2025,Google Shopping,Mobile,London,Hydration & Glow,Moisturiser,1,31.81,0.0,31.81,True
+ORD-100855,CUST-10641,20/03/2026,Affiliate,Mobile,South East,Acne & Blemish,Set/Bundle,1,26.18,0.0,26.18,True
+ORD-100121,CUST-10117,2025-03-12,GOOGLE SEARCH,Mobile,South East,Anti-Ageing,Moisturiser,1,43.3,0.0,43.3,True
+ORD-100834,CUST-10625,2026-03-11,google search,Tablet,North West,Anti-Ageing,Mask,1,41.79,0.0,41.79,True
+ORD-100641,CUST-10211,28/11/2025,SEO,Desktop,South East,Anti-Ageing,Cleanser,1,46.16,10.1,36.06,False
+ORD-100486,CUST-10397,12/09/2025,Organic Search,Tablet,South East,Sensitive Skin,Serum,2,56.01,0.0,56.01,True
+ORD-100720,CUST-10548,2025-12-30,Google Shopping,Desktop,South East,Acne & Blemish,SPF,1,27.03,0.0,27.03,True
+ORD-100237,CUST-10187,2025-05-04,Organic Search,Desktop,Other UK,Hydration & Glow,Serum,1,30.01,0.0,30.01,False
+ORD-101087,CUST-10791,22/06/2026,Google Shopping,Mobile,Scotland,Acne & Blemish,Mask,2,32.91,0.0,32.91,True
+ORD-100369,CUST-10313,2025-07-03,Google Search,Desktop,Other UK,Sensitive Skin,Cleanser,1,33.68,3.37,30.31,True
+ORD-100442,CUST-10297,2025-08-15,Direct,Desktop,London,Anti-Ageing,Serum,1,40.98,0.0,40.98,False
+ORD-100822,CUST-10617,04/03/2026,Organic Search,Desktop,North West,Hydration & Glow,Set/Bundle,3,50.35,0.0,50.35,True
+ORD-100201,CUST-10184,2025-04-22,Google Search,Desktop,London,Hydration & Glow,Moisturiser,1,33.68,0.0,33.68,True
+ORD-100919,CUST-10462,2026-04-18,Google Search,Mobile,London,Sensitive Skin,SPF,1,36.54,0.0,36.54,False
+ORD-100233,CUST-10164,2025-05-03,Google  Search,Mobile,Other UK,Sensitive Skin,Serum,1,39.69,0.0,39.69,False
+ORD-100727,CUST-10552,2026-01-03,Organic Search,Desktop,North West,Acne & Blemish,Serum,2,39.64,0.0,39.64,True
+ORD-100328,CUST-10280,2025-06-15,Email,Desktop,Scotland,Acne & Blemish,Moisturiser,3,51.75,0.0,51.75,True
+ORD-100320,CUST-10273,2025-06-09,Email,Tablet,London,Sensitive Skin,Moisturiser,2,48.4,0.0,48.4,True
+ORD-100354,CUST-10302,2025-06-24,Affiliate,Mobile,Scotland,Acne & Blemish,Serum,1,28.58,0.0,28.58,True
+ORD-100974,CUST-10720,2026-05-11,Google_Shopping,Desktop,North West,Hydration & Glow,Mask,1,34.82,0.0,34.82,True
+ORD-100174,CUST-10161,2025-04-09,Meta Ads,Mobile,South East,Anti-Ageing,Cleanser,3,85.46,0.0,85.46,True
+ORD-100356,CUST-10133,2025-06-25,Organic Search,Desktop,South East,Sensitive Skin,Moisturiser,1,31.32,3.13,28.19,False
+ORD-100301,CUST-10058,29/05/2025,Email Marketing,Mobile,North West,Hydration & Glow,Set/Bundle,3,65.92,6.59,59.33,False
+ORD-100518,CUST-10420,29/09/2025,Email,Mobile,North West,Sensitive Skin,Cleanser,1,25.19,0.0,25.19,True
+ORD-100748,CUST-10330,2026-01-15,Google Shopping,Desktop,London,Acne & Blemish,Serum,1,28.09,0.0,28.09,False
+ORD-101014,CUST-10376,2026-05-24,Email,Desktop,Other UK,Hydration & Glow,Moisturiser,1,34.0,0.0,34.0,False
+ORD-100283,CUST-10246,2025-05-22,Email,Mobile,South East,Hydration & Glow,Moisturiser,1,34.12,0.0,34.12,True
+ORD-100196,CUST-10037,2025-04-19,Google Search,Tablet,Scotland,Anti-Ageing,Moisturiser,1,38.36,3.84,34.52,False
+ORD-100780,CUST-10377,2026-02-10,Google Shopping,Mobile,London,Acne & Blemish,Serum,1,21.96,0.0,21.96,False
+ORD-100132,CUST-10127,19/03/2025,Google Search,Mobile,London,Sensitive Skin,Moisturiser,2,51.51,0.0,51.51,True
+ORD-101106,CUST-10441,2026-06-29,Email,Desktop,London,Anti-Ageing,Serum,1,44.73,0.0,44.73,False
+ORD-100867,CUST-10566,2026-03-25,meta ads,Desktop,Other UK,Anti-Ageing,Cleanser,1,45.12,0.0,45.12,False
+ORD-100373,CUST-10317,2025-07-04,Email,Mobile,Scotland,Sensitive Skin,Serum,1,27.1,2.71,24.39,True
+ORD-100699,CUST-10534,2025-12-15,Organic Search,Desktop,North West,Sensitive Skin,Mask,1,37.34,5.35,31.99,True
+ORD-100969,CUST-10646,2026-05-09,Google_Search,Desktop,North West,Acne & Blemish,Mask,1,25.59,0.0,25.59,False
+ORD-100883,CUST-10662,31/03/2026,Direct,Desktop,Scotland,Anti-Ageing,Mask,1,42.31,0.0,42.31,True
+ORD-100275,CUST-10240,2025-05-19,Email,Mobile,London,Sensitive Skin,SPF,1,29.21,2.92,26.29,True
+ORD-100249,CUST-10170,09/05/2025,Direct,Mobile,South East,Hydration & Glow,Serum,1,27.7,0.0,27.7,False
+ORD-100309,CUST-10263,2025-05-31,Meta Ads,Mobile,London,Hydration & Glow,Moisturiser,1,33.74,0.0,33.74,True
+ORD-100380,CUST-10324,2025-07-08,Email,Desktop,North West,Hydration & Glow,Set/Bundle,1,30.35,0.0,30.35,True
+ORD-100851,CUST-10638,19/03/2026,Google  Search,Desktop,London,Acne & Blemish,SPF,1,27.55,0.0,27.55,True
+ORD-101039,CUST-10389,2026-06-01,Google Shopping,Desktop,North West,Hydration & Glow,Mask,2,49.0,4.9,44.1,False
+ORD-100081,CUST-10079,2025-02-18,Meta Ads,Desktop,South East,Anti-Ageing,Serum,1,42.76,0.0,42.76,True
+ORD-100548,CUST-10441,15/10/2025,Organic Search,Mobile,London,Anti-Ageing,Serum,1,39.87,0.0,39.87,True
+ORD-100683,CUST-10522,09/12/2025,Google Shopping,Mobile,Other UK,Hydration & Glow,Serum,1,35.99,4.56,31.43,True
+ORD-100432,CUST-10359,2025-08-10,FB/IG Ads,Mobile,London,Hydration & Glow,Mask,1,35.04,0.0,35.04,True
+ORD-100944,CUST-10698,2026-04-27,Google_Shopping,Mobile,London,Sensitive Skin,Moisturiser,2,57.47,0.0,57.47,True
+ORD-100042,CUST-10041,2025-01-31,Meta Ads,Tablet,Other UK,Acne & Blemish,Serum,1,31.07,0.0,31.07,True
+ORD-100708,CUST-10015,2025-12-21,Meta Ads,Mobile,Other UK,Anti-Ageing,Cleanser,1,40.69,5.6,35.09,False
+ORD-100546,,2025-10-13,organic search,Desktop,Other UK,Sensitive Skin,Serum,2,48.85,4.89,43.96,True
+ORD-101058,CUST-10770,09/06/2026,Meta Ads,Mobile,North West,Hydration & Glow,Set/Bundle,1,27.45,0.0,27.45,True
+ORD-100054,CUST-10052,2025-02-06,Direct,Desktop,Other UK,Sensitive Skin,Moisturiser,1,38.04,0.0,38.04,True
+ORD-100479,CUST-10145,2025-09-08,Google Search,Mobile,Scotland,Sensitive Skin,Cleanser,1,28.48,0.0,28.48,False
+ORD-100538,CUST-10159,10/10/2025,Google Search,Desktop,London,Hydration & Glow,Moisturiser,1,34.95,0.0,-19.99,False
+ORD-101022,CUST-10746,27/05/2026,Google Search,Mobile,South East,Acne & Blemish,Moisturiser,1,25.53,2.55,22.98,True
+ORD-100506,CUST-10411,2025-09-22,email,Mobile,South East,Anti-Ageing  ,Moisturiser,3,75.3,7.53,67.77,True
+ORD-101030,CUST-10750,29/05/2026,Meta Ads,Desktop,London,Acne & Blemish,Set/Bundle,1,23.5,0.0,23.5,True
+ORD-100284,CUST-10200,2025-05-23,Google Search,Desktop,South East,Hydration & Glow,Serum,1,36.25,0.0,36.25,False
+ORD-100066,CUST-10064,2025-02-13,Google Search,Mobile,South East,Acne & Blemish,Moisturiser,2,40.02,0.0,40.02,True
+ORD-100555,CUST-10445,2025-10-18,Organic Search,Desktop,North West,Hydration & Glow,Cleanser,2,32.48,0.0,32.48,True
+ORD-100632,CUST-10163,2025-11-26,EMAIL,Mobile,South East,Anti-Ageing,Serum,3,92.23,29.06,63.17,False
+ORD-100101,CUST-10099,2025-03-01,Google Search,Mobile,North West,Acne & Blemish,Serum,2,39.18,0.0,39.18,True
+ORD-100285,CUST-10247,2025-05-23,Google Search,Desktop,North West,Sensitive Skin,Moisturiser,2,48.56,0.0,48.56,True
+ORD-100176,CUST-10163,2025-04-09,Direct,Mobile,South East,Anti-Ageing,Set/Bundle,3,72.73,0.0,72.73,True
+ORD-100998,CUST-10736,19/05/2026,Google Search,Desktop,Scotland,Hydration & Glow,Moisturiser,1,23.49,0.0,23.49,True
+ORD-100399,CUST-10109,19/07/2025,Google_Search,Desktop,London,Acne & Blemish,Mask,1,29.24,0.0,29.24,False
+ORD-100368,CUST-10272,2025-07-02,Google Search,Desktop,South East,Anti-Ageing,Mask,1,44.12,0.0,44.12,False
+ORD-100062,CUST-10060,2025-02-11,Google Search,Tablet,North West,Acne & Blemish,Serum,2,34.2,0.0,34.2,True
+ORD-100149,CUST-10052,28/03/2025,Google Shopping,Tablet,Other UK,Sensitive Skin,Cleanser,1,31.49,3.15,28.34,False
+ORD-100646,CUST-10337,2025-11-29,Google Search,Mobile,North West,Sensitive Skin,Cleanser,3,71.42,17.3,54.12,False
+ORD-100601,CUST-10475,2025-11-13,GOOGLE SEARCH,Mobile,Other UK,Hydration & Glow,Moisturiser,1,34.92,0.0,34.92,True
+ORD-100415,CUST-10026,2025-07-30,GOOGLE SEARCH,Mobile,Scotland,Acne & Blemish,Serum,1,25.82,0.0,25.82,False
+ORD-100013,CUST-10013,2025-01-06,Email,Mobile,North West,Acne & Blemish,Cleanser,1,24.85,0.0,24.85,True
+ORD-100532,CUST-10430,2025-10-08,meta ads,Mobile,South East,Acne & Blemish,SPF,3,43.48,0.0,43.48,True
+ORD-100438,CUST-10361,2025-08-14,Organic_Search,Tablet,South East,Hydration & Glow,Moisturiser,1,35.49,0.0,35.49,True
+ORD-100597,CUST-10473,11/11/2025,meta ads,Desktop,South East,Acne & Blemish,Moisturiser,2,43.3,0.0,43.3,True
+ORD-100135,CUST-10129,21/03/2025,DIRECT,Desktop,London,Acne & Blemish,Set/Bundle,1,26.47,0.0,26.47,True
+ORD-100496,CUST-10136,2025-09-16,Google Shopping,Mobile,Other UK,Sensitive Skin,SPF,1,38.69,0.0,38.69,False
+ORD-100575,CUST-10457,31/10/2025,Email,Desktop,Scotland,Anti-Ageing,Serum,1,47.83,0.0,47.83,True
+ORD-100816,CUST-10611,2026-03-01,Email,Mobile,Scotland,Hydration & Glow,Serum,1,24.84,0.0,24.84,True
+ORD-100787,CUST-10594,12/02/2026,Meta Ads,Desktop,London,Hydration & Glow,SPF,1,30.93,0.0,30.93,True
+ORD-100607,CUST-10114,2025-11-14,Meta Ads,Desktop,London,Hydration & Glow,SPF,1,34.12,0.0,34.12,False
+ORD-100726,CUST-10255,2026-01-02,Organic Search,Desktop,North West,Acne & Blemish,SPF,1,16.53,0.0,16.53,False
+ORD-100079,CUST-10077,2025-02-17,Organic Search,Mobile,South East,Hydration & Glow,Moisturiser,1,23.66,0.0,23.66,True
+ORD-100347,CUST-10297,2025-06-21,Meta Ads,Mobile,London,Anti-Ageing,Serum,1,49.52,0.0,49.52,True
+ORD-100894,CUST-10058,2026-04-07,Meta Ads,Tablet,North West,Hydration & Glow,Serum,1,32.44,0.0,32.44,False
+ORD-100391,CUST-10332,2025-07-16,Meta_Ads,Desktop,North West,Anti-Ageing,Cleanser,1,39.91,3.99,35.92,True
+ORD-100089,CUST-10087,2025-02-24,Google Search,Tablet,Scotland,Anti-Ageing,Set/Bundle,2,48.65,0.0,48.65,True
+ORD-100539,CUST-10434,2025-10-10,Meta Ads,Mobile,Other UK,Hydration & Glow,SPF,1,30.43,0.0,30.43,True
+ORD-100152,CUST-10144,29/03/2025,Google Shopping,Desktop,South East,Hydration & Glow,Cleanser,1,33.71,0.0,33.71,True
+ORD-100107,CUST-10104,04/03/2025,Google Search,Tablet,Scotland,Anti-Ageing,Mask,1,40.88,0.0,40.88,True
+ORD-100922,CUST-10260,18/04/2026,Google Search,Mobile,North West,Acne & Blemish,Serum,2,38.33,0.0,38.33,False
+ORD-100774,CUST-10584,05/02/2026,Organic Search,Desktop,Other UK,Anti-Ageing,Moisturiser,2,69.02,0.0,69.02,True
+ORD-100795,CUST-10598,2026-02-16,Direct,Desktop,Other UK,Anti-Ageing,Set/Bundle,1,39.05,3.9,35.15,True
+ORD-101010,CUST-10494,22/05/2026,Organic Search,Desktop,Other UK,Sensitive Skin,Serum,1,30.47,0.0,30.47,False
+ORD-100297,CUST-10217,2025-05-27,Direct,Mobile,London,Acne & Blemish,Cleanser,2,41.39,4.14,37.25,False
+ORD-100605,CUST-10130,2025-11-13,Google Search,Mobile,London,Anti-Ageing,Moisturiser,2,66.59,0.0,66.59,False
+ORD-100001,CUST-10001,2025-01-01,Affiliate,Mobile,Scotland,Sensitive Skin,Cleanser,1,32.62,3.26,29.36,True
+ORD-100160,CUST-10149,03/04/2025,Google Search,Tablet,North West,Hydration & Glow,SPF,1,29.08,0.0,29.08,False
+ORD-100021,CUST-10021,11/01/2025,Meta Ads,Mobile,South East,Acne & Blemish,Cleanser,2,36.42,3.64,32.78,True
+ORD-100112,CUST-10108,2025-03-08,Meta Ads,Desktop,Other UK,Acne & Blemish,Cleanser,1,29.14,0.0,29.14,True
+ORD-100682,CUST-10521,2025-12-08,Direct,Desktop,Other UK,Anti-Ageing,Moisturiser,2,73.5,11.23,62.27,True
+ORD-100930,CUST-10087,2026-04-21,Google Shopping,Mobile,Scotland,Anti-Ageing,Serum,1,35.02,3.5,31.52,False
+ORD-100694,CUST-10394,2025-12-14,Meta Ads,Mobile,North West,Sensitive Skin,Cleanser,1,34.34,4.56,29.78,False
+ORD-100431,CUST-10358,10/08/2025,Organic Search,Desktop,London,Hydration & Glow,Mask,3,70.42,0.0,70.42,True
+ORD-100290,CUST-10250,2025-05-24,DIRECT,Tablet,North West,Acne & Blemish,Moisturiser,1,22.44,0.0,22.44,True
+ORD-100211,CUST-10188,2025-04-27,Google Search,Mobile,South East,Anti-Ageing,Cleanser,1,41.39,0.0,41.39,False
+ORD-100093,CUST-10091,25/02/2025,Affiliate,Mobile,North West,Acne & Blemish,Moisturiser,1,25.63,2.56,23.07,True
+ORD-101029,CUST-10749,2026-05-29,Meta Ads,Desktop,North West,Acne & Blemish,Cleanser,1,31.14,0.0,31.14,True
+ORD-100880,CUST-10659,2026-03-29,Google Search,Mobile,Other UK,Acne & Blemish,Cleanser,2,35.92,0.0,35.92,True
+ORD-100476,CUST-10390,2025-09-06,Organic Search,Mobile,South East,Acne & Blemish,Mask,1,28.3,0.0,28.3,True
+ORD-100194,CUST-10180,2025-04-19,GOOGLE SEARCH,Mobile,South East,Anti-Ageing,Moisturiser,1,45.0,4.5,40.5,True
+ORD-100543,CUST-10438,11/10/2025,Meta Ads,Mobile,Other UK,Acne & Blemish,Serum,1,23.63,0.0,23.63,True
+ORD-100005,CUST-10005,04/01/2025,organic search,Desktop,South East,Hydration & Glow,Serum,1,32.05,0.0,32.05,True
+ORD-101008,CUST-10039,2026-05-21,Email,Tablet,Scotland,Hydration & Glow,Serum,1,27.49,0.0,27.49,False
+ORD-100574,CUST-10422,2025-10-30,Affiliate,Mobile,London,Anti-Ageing,Serum,1,43.92,0.0,43.92,False
+ORD-100839,CUST-10211,2026-03-12,Organic Search,Mobile,South East,Anti-Ageing,Serum,1,43.89,0.0,43.89,False
+ORD-100898,CUST-10671,2026-04-08,Affiliate,Tablet,Scotland,Sensitive Skin,Serum,1,36.09,0.0,36.09,True
+ORD-100765,CUST-10221,30/01/2026,Meta Ads,Desktop,South East,Sensitive Skin,Cleanser,2,65.59,6.56,59.03,False
+ORD-100246,CUST-10218,08/05/2025,Direct,Desktop,Scotland,Anti-Ageing,Moisturiser,2,66.23,0.0,66.23,True
+ORD-100414,CUST-10345,2025-07-29,Organic Search,Desktop,North West,Acne & Blemish,Cleanser,1,28.86,0.0,28.86,True
+ORD-100303,CUST-10150,2025-05-30,Google_Search,Mobile,Other UK,Hydration & Glow,Moisturiser,1,26.29,0.0,26.29,False
+ORD-100791,CUST-10595,2026-02-14,GOOGLE SEARCH,Mobile,London,Acne & Blemish,Mask,1,28.01,2.8,25.21,True
+ORD-100019,CUST-10019,11/01/2025,Google Search,Tablet,London,Hydration & Glow,Mask,1,34.36,0.0,34.36,True
+ORD-100223,CUST-10200,01/05/2025,Email,Mobile,South East,Hydration & Glow,Cleanser,2,50.72,0.0,50.72,True
+ORD-100917,CUST-10141,2026-04-17,Google Shopping,Mobile,South East,Sensitive Skin,Cleanser,1,34.75,0.0,34.75,False
+ORD-100251,CUST-10082,2025-05-11,Google_Shopping,Tablet,South East,Anti-Ageing,Set/Bundle,2,74.97,0.0,74.97,False
+ORD-100065,CUST-10063,12/02/2025,Google Shopping,Tablet,South East,Acne & Blemish,Serum,1,23.79,0.0,23.79,True
+ORD-101082,CUST-10786,2026-06-21,Email,Mobile,London,Sensitive Skin,Mask,1,38.28,0.0,38.28,True
+ORD-100266,CUST-10233,17/05/2025,Google Search,Tablet,South East,Hydration & Glow,Cleanser,2,54.8,0.0,54.8,True
+ORD-100664,CUST-10514,02/12/2025,Email,Desktop,Other UK,Acne & Blemish,Mask,1,23.84,4.25,19.59,True
+ORD-100308,CUST-10262,2025-05-31,Google Search,Desktop,South East,Acne & Blemish,SPF,1,23.95,2.4,21.55,True
+ORD-100596,CUST-10472,2025-11-10,Email,Mobile,London,Anti-Ageing,Serum,2,58.44,5.84,52.6,True
+ORD-100405,CUST-10340,2025-07-25,Google Search,Tablet,London,Anti-Ageing,Moisturiser,1,37.39,0.0,37.39,True
+ORD-100926,CUST-10197,2026-04-19,Email,Mobile,London,Sensitive Skin,SPF,1,35.16,0.0,35.16,False
+ORD-100946,CUST-10700,2026-04-28,email,Tablet,Scotland,Acne & Blemish,Set/Bundle,3,48.08,0.0,48.08,True
+ORD-100910,CUST-10201,2026-04-15,Affiliate,Mobile,London,Hydration & Glow,Mask,1,31.27,0.0,31.27,False
+ORD-101038,CUST-10757,01/06/2026,Email,Mobile,South East,Acne & Blemish,Moisturiser,1,29.69,2.97,26.72,True
+ORD-100730,CUST-10555,2026-01-04,Email,Desktop,North West,Acne & Blemish,Cleanser,1,26.33,0.0,26.33,True
+ORD-100679,CUST-10520,2025-12-08,Google Search,Mobile,South East,Hydration & Glow,Mask,1,26.58,4.71,21.87,True
+ORD-100075,CUST-10073,2025-02-16,Google_Search,Mobile,South East,Acne & Blemish,Serum,1,25.95,0.0,25.95,True
+ORD-100825,CUST-10619,2026-03-05,Google Search,Tablet,South East,Acne & Blemish,Moisturiser,2,33.01,0.0,33.01,True
+ORD-100803,CUST-10451,2026-02-19,Organic Search,Desktop,North West,Anti-Ageing,Moisturiser,3,79.48,0.0,79.48,False
+ORD-100148,CUST-10141,2025-03-27,(direct),Desktop,South East,Sensitive Skin,Cleanser,1,34.7,0.0,34.7,True
+ORD-100600,CUST-10181,12/11/2025,Meta Ads,Desktop,North West,Anti-Ageing,Moisturiser,2,71.76,0.0,71.76,False
+ORD-100142,CUST-10135,2025-03-24,GOOGLE SEARCH,Desktop,South East,Hydration & Glow,Moisturiser,1,31.21,0.0,31.21,True
+ORD-100333,CUST-10284,2025-06-17,Google Search,Tablet,South East,Hydration & Glow,Moisturiser,1,30.69,0.0,30.69,True
+ORD-100287,CUST-10228,23/05/2025,Direct,Mobile,Other UK,Anti-Ageing,Serum,1,42.66,0.0,42.66,False
+ORD-100988,CUST-10730,2026-05-16,Google Search,Desktop,South East,Acne & Blemish,Serum,3,53.09,0.0,53.09,True
+ORD-100255,CUST-10225,13/05/2025,Meta Ads,Desktop,South East,Acne & Blemish,Mask,2,39.11,0.0,39.11,True
+ORD-101009,CUST-10740,2026-05-22,Google Search,Desktop,Other UK,Acne & Blemish,SPF,1,25.98,0.0,25.98,True
+ORD-100797,CUST-10017,17/02/2026,Google Shopping,Desktop,London,Sensitive Skin,SPF,1,37.62,0.0,37.62,False
+ORD-101017,CUST-10643,2026-05-25,Meta_Ads,Mobile,Other UK,Anti-Ageing,Serum,2,55.47,0.0,55.47,False
+ORD-100250,CUST-10221,10/05/2025,Google Shopping,Desktop,South East,Sensitive Skin,Set/Bundle,1,36.36,0.0,36.36,True
+ORD-100986,CUST-10728,2026-05-15,Google Shopping,Desktop,London,Anti-Ageing,Serum,2,69.74,6.97,62.77,True
+ORD-100924,CUST-10686,2026-04-19,Meta Ads,Mobile,South East,Sensitive Skin,SPF,1,38.95,0.0,38.95,True
+ORD-100904,CUST-10177,12/04/2026,Meta Ads,Mobile,Other UK,Sensitive Skin,Set/Bundle,3,88.71,0.0,88.71,False
+ORD-100036,CUST-10035,2025-01-24,Organic Search,Mobile,North West,Anti-Ageing,Moisturiser,2,66.53,0.0,66.53,True
+ORD-100051,CUST-10049,2025-02-04,Google  Search,Tablet,London,Anti-Ageing,Mask,1,51.22,0.0,51.22,True
+ORD-100741,CUST-10282,2026-01-10,Meta Ads,Desktop,Scotland,Anti-Ageing,Moisturiser,1,35.11,0.0,35.11,False
+ORD-100102,CUST-10100,2025-03-02,SEO,Mobile,North West,Anti-Ageing,Cleanser,2,65.81,0.0,65.81,True
+ORD-100074,CUST-10072,2025-02-15,Meta Ads,Tablet,Scotland,Anti-Ageing,Cleanser,2,73.27,0.0,73.27,True
+ORD-100126,CUST-10122,2025-03-16,Email,Mobile,Scotland,Anti-Ageing,Mask,1,56.48,5.65,50.83,True
+ORD-100753,CUST-10568,2026-01-17,FB/IG Ads,Mobile,Other UK,Sensitive Skin,SPF,2,63.92,0.0,63.92,True
+ORD-100409,CUST-10124,2025-07-27,Google Shopping,Desktop,London,Anti-Ageing,Serum,1,39.21,3.92,35.29,False
+ORD-100585,CUST-10465,2025-11-06,Meta Ads,Mobile,South East,Anti-Ageing,Moisturiser,3,94.88,0.0,94.88,True
+ORD-100219,CUST-10196,2025-04-30,Google Search,Desktop,South East,Sensitive Skin,Mask,1,34.36,0.0,34.36,True
+ORD-100688,CUST-10525,12/12/2025,Direct,Desktop,London,Hydration & Glow,Mask,3,60.78,11.13,49.65,True
+ORD-100846,CUST-10633,2026-03-16,(direct),Desktop,Other UK,Acne & Blemish,SPF,1,28.19,0.0,28.19,True
+ORD-100790,CUST-10493,14/02/2026,Google Search,Mobile,London,Sensitive Skin,Moisturiser,1,39.95,0.0,39.95,False
+ORD-100849,CUST-10636,2026-03-18,Google Shopping,Mobile,South East,Hydration & Glow,Moisturiser,2,50.41,5.04,45.37,True
+ORD-100530,CUST-10428,06/10/2025,Google Shopping,Desktop,South East,Acne & Blemish,Cleanser,1,26.19,0.0,26.19,True
+ORD-100740,CUST-10563,10/01/2026,Google Search,Mobile,London,Sensitive Skin,Mask,3,61.21,0.0,61.21,True
+ORD-100480,CUST-10393,2025-09-08,Email,Mobile,South East,Acne & Blemish,Mask,1,31.01,0.0,31.01,True
+ORD-100061,CUST-10059,2025-02-10,Email,Desktop,London,Acne & Blemish,SPF,2,39.4,3.94,35.46,True
+ORD-100807,CUST-10605,24/02/2026,Meta_Ads,Desktop,London,Acne & Blemish,Cleanser,2,40.77,0.0,40.77,True
+ORD-100630,CUST-10476,26/11/2025,Direct,Desktop,South East,Hydration & Glow,Moisturiser,1,26.63,8.45,18.18,False
+ORD-100656,CUST-10507,2025-11-30,DIRECT,Mobile,South East,Anti-Ageing,Serum,2,51.95,17.28,34.67,True
+ORD-100375,CUST-10319,05/07/2025,Organic Search,Desktop,London,Hydration & Glow,Mask,1,27.4,0.0,27.4,True
+ORD-100612,CUST-10482,2025-11-16,Organic Search,Desktop,Other UK,Sensitive Skin,Mask,1,33.94,0.0,33.94,True
+ORD-100293,CUST-10160,26/05/2025,Affiliate,Desktop,Scotland,Anti-Ageing,Serum,1,44.29,0.0,44.29,False
+ORD-100366,CUST-10119,01/07/2025,FB/IG Ads,Mobile,London,Sensitive Skin,Cleanser,1,37.43,0.0,37.43,False
+ORD-101018,CUST-10430,25/05/2026,Organic Search,Desktop,South East,Acne & Blemish,Moisturiser,2,35.48,3.55,31.93,False
+ORD-100624,CUST-10489,2025-11-24,Google  Search,Mobile,South East,Hydration & Glow,Mask,2,54.34,16.43,37.91,True
+ORD-100617,CUST-10211,2025-11-20,Organic Search,Desktop,South East,Anti-Ageing,Moisturiser,1,37.01,0.0,37.01,False
+ORD-101063,CUST-10185,10/06/2026,Affiliate,Mobile,Scotland,Anti-Ageing,Serum,1,42.05,0.0,42.05,False
+ORD-100915,CUST-10681,2026-04-16,Organic Search,Mobile,London,Hydration & Glow,Serum,2,48.79,0.0,48.79,True
+ORD-100758,CUST-10572,2026-01-25,DIRECT,Mobile,North West,Anti-Ageing,Cleanser,1,37.34,0.0,37.34,True
+ORD-100954,CUST-10707,2026-05-04,Google Search,Desktop,Other UK,Acne & Blemish,Mask,1,31.51,0.0,31.51,True
+ORD-100675,CUST-10128,2025-12-06,Direct,Mobile,London,Hydration & Glow,Moisturiser,2,36.61,5.14,31.47,False
+ORD-100277,CUST-10242,2025-05-20,Email,Tablet,Scotland,Anti-Ageing,Moisturiser,1,43.4,0.0,43.4,True
+ORD-100071,CUST-10069,2025-02-14,Google Search,Mobile,Other UK,Hydration & Glow,SPF,1,27.57,0.0,27.57,True
+ORD-100346,CUST-10296,21/06/2025,Meta Ads,Mobile,South East,Hydration & Glow,Serum,1,32.98,0.0,32.98,True
+ORD-100422,CUST-10350,03/08/2025,Organic_Search,Mobile,South East,Anti-Ageing,Cleanser,3,97.69,9.77,87.92,True
+ORD-100510,CUST-10414,2025-09-24,Facebook/Instagram Ads,Mobile,South East,Hydration & Glow,Serum,1,30.33,0.0,30.33,True
+ORD-100769,CUST-10580,2026-02-04,Meta Ads,Mobile,South East,Acne & Blemish,Moisturiser,1,27.62,2.76,24.86,True
+ORD-100236,CUST-10027,2025-05-04,Google Search,Mobile,Other UK,Acne & Blemish,SPF,1,22.31,0.0,22.31,False
+ORD-100044,CUST-10043,01/02/2025,Affiliate,Mobile,Scotland,Acne & Blemish,SPF,2,42.93,0.0,42.93,True
+ORD-100547,CUST-10375,2025-10-14,Email Marketing,Desktop,London,Sensitive Skin,SPF,2,59.74,5.97,53.77,False
+ORD-100478,CUST-10392,2025-09-08,Google Search,Desktop,Other UK,Hydration & Glow,Mask,1,30.83,0.0,30.83,True
+ORD-100785,CUST-10593,12/02/2026,Affiliate,Desktop,London,Anti-Ageing,SPF,3,86.8,0.0,86.8,True
+ORD-100181,CUST-10167,11/04/2025,Email,Mobile,South East,Anti-Ageing,Cleanser,1,46.84,4.68,42.16,True
+ORD-100127,CUST-10123,17/03/2025,email,Desktop,South East,Anti-Ageing,Serum,1,34.41,0.0,34.41,True
+ORD-100859,CUST-10117,2026-03-22,Organic Search,Tablet,South East,Anti-Ageing,Moisturiser,1,40.07,0.0,40.07,False
+ORD-100856,CUST-10642,2026-03-20,Direct,Desktop,North West,Anti-Ageing,Cleanser,1,31.91,3.19,28.72,True
+ORD-100294,CUST-10253,2025-05-26,Google_Search,Mobile,South East,Hydration & Glow,Cleanser,1,28.22,0.0,28.22,True
+ORD-100525,CUST-10426,2025-10-02,Google Shopping,Desktop,South East,Acne & Blemish,Set/Bundle,1,26.77,2.68,24.09,True
+ORD-100254,CUST-10224,2025-05-12,Direct,Tablet,South East,Anti-Ageing,Serum,1,43.97,0.0,43.97,True
+ORD-100443,CUST-10365,2025-08-16,Organic_Search,Desktop,London,Hydration & Glow,Cleanser,1,27.27,0.0,27.27,True
+ORD-100549,CUST-10111,2025-10-15,Google Search,Desktop,North West,Acne & Blemish,Mask,1,26.89,0.0,26.89,False
+ORD-100345,CUST-10295,2025-06-20,Google Search,Mobile,Scotland,Hydration & Glow,Serum,3,80.79,0.0,80.79,True
+ORD-100489,CUST-10400,13/09/2025,AFFILIATE,Mobile,South East,Hydration & Glow,Moisturiser,2,52.06,0.0,52.06,True
+ORD-100128,CUST-10124,2025-03-17,Email,Mobile,London,Anti-Ageing,Serum,3,75.5,0.0,75.5,True
+ORD-100805,CUST-10144,2026-02-23,Google Search,Mobile,South East,Hydration & Glow,Moisturiser,2,43.24,0.0,43.24,False
+ORD-100166,CUST-10154,2025-04-06,Organic Search,Mobile,North West,Acne & Blemish,Serum,3,38.18,0.0,38.18,True
+ORD-100306,CUST-10260,2025-05-31,Direct,Mobile,North West,Acne & Blemish  ,SPF,1,22.61,0.0,22.61,True
+ORD-100341,CUST-10291,19/06/2025,Google Shopping,Desktop,London,Anti-Ageing,Set/Bundle,2,51.52,0.0,51.52,True
+ORD-100955,CUST-10418,04/05/2026,meta ads,Desktop,Other UK,Sensitive Skin,Moisturiser,1,34.6,0.0,34.6,False
+ORD-100209,CUST-10191,24/04/2025,Google Search,Mobile,South East,Acne & Blemish,SPF,1,22.36,0.0,22.36,True
+ORD-100992,CUST-10320,17/05/2026,google search,Tablet,North West,Sensitive Skin,SPF,2,48.55,0.0,48.55,False
+ORD-100960,CUST-10711,2026-05-05,Google Search,Mobile,South East,Hydration & Glow,Serum,1,35.56,3.56,32.0,True
+ORD-100935,CUST-10692,2026-04-23,Email,Desktop,South East,Sensitive Skin,Cleanser,1,36.25,0.0,36.25,True
+ORD-100145,CUST-10138,26/03/2025,EMAIL,Mobile,London,Anti-Ageing,Serum,2,75.17,0.0,75.17,True
+ORD-100125,CUST-10121,15/03/2025,Organic Search,Mobile,London,Anti-Ageing,Mask,1,51.06,0.0,51.06,True
+ORD-100031,CUST-10030,2025-01-19,Google Search,Desktop,London,Hydration & Glow,SPF,1,34.67,0.0,34.67,True
+ORD-100890,CUST-10563,2026-04-03,Email,Desktop,London,Sensitive Skin,SPF,1,33.97,0.0,33.97,False
+ORD-100146,CUST-10139,2025-03-27,Affiliate,Mobile,London,Anti-Ageing,Serum,1,41.41,0.0,41.41,True
+ORD-100473,,2025-09-04,Organic Search,Mobile,London,Acne & Blemish,SPF,3,55.52,0.0,55.52,True
+ORD-101006,CUST-10185,2026-05-21,Google Shopping,Desktop,Scotland,Anti-Ageing,Serum,1,46.68,0.0,46.68,False
+ORD-101011,CUST-10741,2026-05-22,Organic Search,Mobile,South East,Acne & Blemish,SPF,1,24.7,2.47,22.23,True
+ORD-100971,CUST-10246,2026-05-10,Google Search,Mobile,South East,Hydration & Glow,Mask,1,24.43,2.44,21.99,False
+ORD-100247,CUST-10219,2025-05-09,google shopping,Desktop,Scotland,Hydration & Glow,Mask,1,25.96,0.0,25.96,True
+ORD-100802,CUST-10090,2026-02-19,Google Search,Tablet,Other UK,Hydration & Glow,Moisturiser,2,57.2,0.0,57.2,False
+ORD-100023,CUST-10023,12/01/2025,Meta Ads,Desktop,South East,Sensitive Skin,Cleanser,1,28.79,0.0,28.79,True
+ORD-100638,CUST-10183,27/11/2025,email,Desktop,North West,Anti-Ageing,Moisturiser,2,73.18,20.48,52.7,False
+ORD-100108,CUST-10105,06/03/2025,Google Search,Desktop,North West,Hydration & Glow,Moisturiser,1,30.31,0.0,30.31,True
+ORD-100234,CUST-10210,03/05/2025,Google Search,Mobile,North West,Acne & Blemish,Cleanser,2,42.28,0.0,42.28,True
+ORD-100732,CUST-10557,2026-01-05,Affiliate,Mobile,Other UK,Anti-Ageing,Serum,1,33.48,3.35,30.13,True
+ORD-100639,CUST-10279,2025-11-27,Direct,Mobile,South East,Anti-Ageing,Serum,1,41.33,9.81,31.52,False
+ORD-100158,CUST-10008,2025-04-02,EMAIL,Desktop,North West,Hydration & Glow,Moisturiser,1,27.32,0.0,27.32,False
+ORD-100604,CUST-10477,2025-11-13,Google Search,Desktop,North West,Hydration & Glow,Moisturiser,1,35.41,0.0,35.41,True
+ORD-100977,CUST-10722,12/05/2026,Google Shopping,Desktop,North West,Acne & Blemish,Cleanser,2,39.2,0.0,39.2,True
+ORD-100331,CUST-10282,16/06/2025,Direct,Desktop,Scotland,Anti-Ageing,Cleanser,1,41.27,4.13,37.14,True
+ORD-100893,CUST-10371,2026-04-04,EMAIL,Desktop,London,Hydration & Glow,SPF,1,31.67,3.17,28.5,False
+ORD-100319,CUST-10272,2025-06-08,Direct,Mobile,South East,Anti-Ageing,Mask,1,41.51,0.0,41.51,True
+ORD-101103,CUST-10068,2026-06-28,Email,Desktop,South East,Hydration & Glow,Serum,1,31.33,0.0,31.33,False
+ORD-100067,CUST-10065,2025-02-14,Direct,Mobile,Other UK,Hydration & Glow,Mask,1,24.99,0.0,24.99,True
+ORD-100721,CUST-10466,2025-12-31,Google Shopping,Mobile,London,Acne & Blemish,Cleanser,1,29.8,0.0,29.8,False
+ORD-100875,CUST-10203,2026-03-26,Organic Search,Tablet,Other UK,Hydration & Glow,Moisturiser,1,36.62,0.0,36.62,False
+ORD-100978,CUST-10375,2026-05-13,GOOGLE SHOPPING,Mobile,London,Sensitive Skin,SPF,2,52.63,0.0,52.63,False
+ORD-101068,CUST-10777,2026-06-13,SEO,Desktop,Scotland,Sensitive Skin,SPF,2,59.76,5.98,53.78,True
+ORD-100385,,2025-07-12,Google Search,Desktop,North West,Sensitive Skin,Cleanser,1,31.98,0.0,31.98,True
+ORD-100781,CUST-10296,2026-02-10,Meta Ads,Desktop,South East,Hydration & Glow,Set/Bundle,1,31.57,0.0,31.57,False
+ORD-100218,CUST-10061,2025-04-29,Email,Mobile,South East,Anti-Ageing,Moisturiser,3,80.97,0.0,80.97,False
+ORD-100131,CUST-10103,2025-03-19,Organic_Search,Mobile,Scotland,Acne & Blemish,Cleanser,2,43.46,0.0,43.46,False
+ORD-100329,CUST-10281,2025-06-15,Google  Search,Mobile,London,Acne & Blemish,Cleanser,1,25.84,0.0,25.84,True
+ORD-100080,CUST-10078,2025-02-17,Email,Mobile,London,Anti-Ageing,Serum,3,84.18,0.0,84.18,True
+ORD-100901,CUST-10674,2026-04-10,Google Search,Tablet,North West,Anti-Ageing,Serum,2,58.56,0.0,58.56,True
+ORD-100934,CUST-10562,2026-04-23,Google Shopping,Desktop,London,Sensitive Skin,SPF,1,28.94,0.0,28.94,False
+ORD-100307,CUST-10261,31/05/2025,Google Shopping,Mobile,London,Acne & Blemish,Mask,1,32.55,0.0,32.55,True
+ORD-100569,CUST-10453,2025-10-29,Organic_Search,Desktop,South East,Anti-Ageing,Mask,2,52.46,0.0,52.46,True
+ORD-100811,CUST-10319,27/02/2026,Email,Mobile,London,Hydration & Glow,Cleanser,1,22.79,0.0,22.79,False
+ORD-100197,CUST-10181,2025-04-20,Affiliate,Desktop,North West,Anti-Ageing,SPF,1,45.52,4.55,40.97,True
+ORD-100154,CUST-10146,2025-03-31,Meta Ads,Desktop,South East,Acne & Blemish,Cleanser,2,45.78,0.0,45.78,True
+ORD-100990,CUST-10732,2026-05-16,Meta_Ads,Tablet,Other UK,Acne & Blemish,Cleanser,1,22.56,0.0,22.56,True
+ORD-100470,CUST-10386,2025-09-01,Email,Desktop,Other UK,Acne & Blemish,Serum,1,28.88,0.0,28.88,True
+ORD-100554,CUST-10444,2025-10-17,Google Shopping,Desktop,London,Acne & Blemish,Mask,1,20.79,0.0,20.79,True
+ORD-100566,CUST-10440,2025-10-28,Google Shopping,Tablet,Other UK,Sensitive Skin,Cleanser,3,73.59,0.0,73.59,False
+ORD-100994,CUST-10735,17/05/2026,Google Search,Mobile,London,Hydration & Glow,Set/Bundle,1,32.24,0.0,32.24,True
+ORD-100882,CUST-10661,2026-03-31,Google Shopping,Desktop,North West,Anti-Ageing,Serum,1,50.02,0.0,50.02,True
+ORD-100398,CUST-10309,18/07/2025,Email,Mobile,Other UK,Acne & Blemish,Cleanser,1,22.59,0.0,22.59,False
+ORD-100794,CUST-10250,15/02/2026,google search,Mobile,North West,Acne & Blemish,Set/Bundle,1,29.18,0.0,29.18,False
+ORD-100519,CUST-10182,2025-09-29,Google Search,Mobile,London,Acne & Blemish,Serum,1,25.08,0.0,25.08,False
+ORD-100170,CUST-10157,2025-04-07,Google Search,Mobile,South East,Anti-Ageing,Mask,1,42.86,0.0,42.86,True
+ORD-100186,CUST-10172,2025-04-14,Organic Search,Mobile,South East,Acne & Blemish,Set/Bundle,2,35.79,0.0,35.79,True
+ORD-100364,CUST-10310,2025-06-30,Organic Search,Mobile,Scotland,Hydration & Glow,Serum,2,51.65,5.16,46.49,True
+ORD-100428,CUST-10355,08/08/2025,google search,Tablet,South East,Anti-Ageing,Serum,1,42.34,0.0,42.34,True
+ORD-100876,CUST-10655,2026-03-26,Email,Mobile,North West,Hydration & Glow,Set/Bundle,1,35.4,3.54,31.86,True
+ORD-100653,CUST-10504,30/11/2025,GOOGLE SHOPPING,Desktop,Scotland,Sensitive Skin,Moisturiser,1,36.37,8.06,28.31,True
+ORD-100887,CUST-10664,2026-04-02,Facebook/Instagram Ads,Mobile,Other UK,Hydration & Glow,Serum,1,25.61,0.0,25.61,True
+ORD-100737,CUST-10561,2026-01-08,Organic Search,Mobile,London,Sensitive Skin,SPF,2,52.87,0.0,52.87,True
+ORD-100746,CUST-10565,2026-01-13,Google Search,Desktop,Scotland,Acne & Blemish,Moisturiser,1,31.17,0.0,31.17,True
+ORD-100545,CUST-10439,2025-10-12,google search,Desktop,London,Anti-Ageing,Moisturiser,1,46.6,0.0,46.6,True
+ORD-100959,CUST-10710,2026-05-04,Direct,Desktop,South East,Acne & Blemish,Serum,1,25.81,2.58,23.23,True
+ORD-100058,CUST-10056,08/02/2025,Affiliate,Mobile,Other UK,Hydration & Glow,Set/Bundle,1,32.32,0.0,32.32,True
+ORD-100751,CUST-10037,2026-01-16,Google Search,Mobile,Scotland,Anti-Ageing,Moisturiser,3,68.19,0.0,68.19,False
+ORD-101100,CUST-10802,2026-06-26,Google Shopping,Desktop,South East,Acne & Blemish,Set/Bundle,1,31.76,0.0,31.76,True
+ORD-100289,CUST-10062,2025-05-24,Organic Search,Mobile,Other UK,Anti-Ageing,Moisturiser,1,39.65,0.0,39.65,False
+ORD-100227,CUST-10204,2025-05-01,Meta Ads,Desktop,London,Acne & Blemish,Set/Bundle,1,26.62,0.0,26.62,True
+ORD-100659,CUST-10509,01/12/2025,Google Shopping,Mobile,London,Sensitive Skin,Moisturiser,1,42.31,7.16,35.15,True
+ORD-100558,CUST-10447,2025-10-20,Email,Desktop,North West,Anti-Ageing,Serum,1,40.16,0.0,40.16,True
+ORD-100783,CUST-10591,2026-02-10,Direct,Mobile,London,Acne & Blemish,Cleanser,1,26.85,0.0,26.85,True
+ORD-100873,CUST-10045,26/03/2026,Google Search,Mobile,Other UK,Acne & Blemish,Serum,3,50.38,5.04,45.34,False
+ORD-101016,CUST-10121,2026-05-25,Meta Ads,Desktop,London,Anti-Ageing,Moisturiser,2,69.07,0.0,69.07,False
+ORD-100033,CUST-10032,23/01/2025,Meta Ads,Desktop,North West,Anti-Ageing,Serum,1,45.62,0.0,45.62,True
+ORD-100393,CUST-10334,2025-07-16,Direct,Desktop,Other UK,Acne & Blemish,Cleanser,1,29.27,2.93,26.34,True
+ORD-100712,CUST-10542,2025-12-24,Email,Desktop,South East,Sensitive Skin,Moisturiser,1,35.95,3.66,32.29,True
+ORD-100958,CUST-10051,2026-05-04,Email,Tablet,South East,Acne & Blemish,SPF,2,43.13,0.0,43.13,False
+ORD-100084,CUST-10082,21/02/2025,Organic Search,Mobile,South East,Anti-Ageing,Set/Bundle,1,30.28,3.03,27.25,True
+ORD-100521,CUST-10422,30/09/2025,Facebook/Instagram Ads,Mobile,London,Anti-Ageing,Cleanser,1,50.0,0.0,50.0,True
+ORD-100177,CUST-10164,2025-04-11,Meta Ads,Desktop,Other UK,Sensitive Skin,Mask,1,30.81,0.0,30.81,True
+ORD-100090,CUST-10088,24/02/2025,Affiliate,Desktop,London,Acne & Blemish,Cleanser,2,26.92,0.0,26.92,True
+ORD-100636,CUST-10160,27/11/2025,Google Shopping,Desktop,Scotland,Anti-Ageing,SPF,2,62.37,14.27,48.1,False
+ORD-100761,CUST-10575,2026-01-29,Organic Search,Desktop,Scotland,Acne & Blemish,Set/Bundle,1,23.29,0.0,23.29,True
+ORD-100440,CUST-10363,2025-08-15,Google Search,Desktop,Other UK,Hydration & Glow,Cleanser,2,49.88,0.0,49.88,True
+ORD-101061,CUST-10772,2026-06-09,Meta Ads,Tablet,Scotland,Anti-Ageing,Serum,3,69.16,0.0,69.16,True
+ORD-100948,CUST-10702,2026-04-29,SEO,Mobile,Scotland,Acne & Blemish,SPF,1,22.15,0.0,22.15,True
+ORD-100524,CUST-10425,2025-10-01,Direct,Mobile,South East,Acne & Blemish,Moisturiser,2,38.18,0.0,38.18,True
+ORD-100531,CUST-10429,2025-10-06,Affiliate,Desktop,London,Hydration & Glow,Cleanser,1,31.77,0.0,31.77,True
+ORD-100895,CUST-10668,2026-04-07,organic search,Desktop,Scotland,Acne & Blemish,Serum,1,31.01,0.0,31.01,True
+ORD-100696,CUST-10531,2025-12-14,Email,Mobile,South East,Anti-Ageing,Mask,1,55.71,5.66,50.05,True
+ORD-100889,CUST-10665,2026-04-03,Email,Desktop,London,Acne & Blemish  ,Cleanser,2,46.64,4.66,41.98,True
+ORD-100225,CUST-10202,01/05/2025,email,Desktop,Other UK,Anti-Ageing,SPF,1,45.7,4.57,41.13,True
+ORD-101099,CUST-10801,26/06/2026,Meta Ads,Mobile,South East,Hydration & Glow,Cleanser,1,27.67,0.0,27.67,True
+ORD-100231,CUST-10208,2025-05-02,Google Shopping,Mobile,London,Hydration & Glow,Mask,1,31.53,0.0,31.53,True
+ORD-100332,CUST-10283,2025-06-17,Google_Search,Desktop,South East,Sensitive Skin,Cleanser,3,75.21,7.52,67.69,True
+ORD-101075,CUST-10751,16/06/2026,Email,Mobile,Scotland,Sensitive Skin,Moisturiser,1,32.71,0.0,32.71,False
+ORD-100918,CUST-10683,2026-04-17,Email,Tablet,South East,Acne & Blemish,Mask,3,56.7,0.0,56.7,True
+ORD-100416,CUST-10050,2025-08-01,Meta Ads,Desktop,North West,Anti-Ageing,Serum,2,61.56,0.0,61.56,False
+ORD-100941,CUST-10696,2026-04-25,Meta Ads,Mobile,North West,Hydration & Glow,Set/Bundle,1,35.22,0.0,35.22,True
+ORD-100472,CUST-10223,2025-09-04,Meta Ads,Mobile,Other UK,Sensitive Skin,Moisturiser,1,35.74,0.0,35.74,False
+ORD-101026,CUST-10231,28/05/2026,Organic_Search,Tablet,North West,Hydration & Glow,Moisturiser,2,43.92,0.0,43.92,False
+ORD-100077,CUST-10075,2025-02-16,Meta Ads,Desktop,Scotland,Acne & Blemish,Moisturiser,1,25.92,0.0,25.92,True
+ORD-100723,CUST-10550,01/01/2026,email,Mobile,South East,Anti-Ageing,Cleanser,2,76.45,0.0,76.45,True
+ORD-100447,CUST-10369,2025-08-19,Organic Search,Tablet,Other UK,Acne & Blemish,Mask,1,22.51,0.0,22.51,True
+ORD-100164,CUST-10153,2025-04-05,Google Search,Mobile,North West,Acne & Blemish,Cleanser,1,25.85,0.0,25.85,True
+ORD-100693,CUST-10529,2025-12-14,Email,Mobile,London,Acne & Blemish,Mask,3,55.01,9.85,45.16,True
+ORD-100094,CUST-10092,2025-02-25,email,Mobile,London,Acne & Blemish,Cleanser,1,21.45,0.0,21.45,True
+ORD-100857,CUST-10322,22/03/2026,Google  Search,Mobile,Other UK,Hydration & Glow,Mask,2,57.75,0.0,57.75,False
+ORD-100318,CUST-10239,2025-06-07,Email,Tablet,Other UK,Anti-Ageing,Serum,1,52.86,0.0,52.86,False
+ORD-101023,CUST-10747,2026-05-28,Meta Ads,Mobile,Scotland,Anti-Ageing,SPF,1,43.57,0.0,43.57,True
+ORD-100282,CUST-10053,2025-05-22,Email,Desktop,London,Sensitive Skin,Mask,1,34.14,0.0,34.14,False
+ORD-100257,CUST-10227,2025-05-14,Organic Search,Tablet,London,Acne & Blemish,SPF,1,29.74,2.97,26.77,True
+ORD-100729,CUST-10554,2026-01-04,Organic Search,Desktop,North West,Sensitive Skin,Cleanser,3,76.39,0.0,76.39,True
+ORD-100168,CUST-10151,2025-04-07,Google Shopping,Mobile,Scotland,Sensitive Skin,Cleanser,2,61.13,0.0,61.13,False
+ORD-100392,CUST-10333,2025-07-16,email,Mobile,Scotland,Hydration & Glow,Serum,2,52.62,5.26,47.36,True
+ORD-101002,CUST-10325,2026-05-19,Organic Search,Mobile,South East,Sensitive Skin,Moisturiser,1,32.5,0.0,32.5,False
+ORD-100966,CUST-10715,07/05/2026,Meta Ads,Desktop,London,Hydration & Glow,Mask,1,29.57,2.96,26.61,True
+ORD-101001,CUST-10035,19/05/2026,affiliate,Desktop,North West,Anti-Ageing,Cleanser,1,46.59,0.0,46.59,False
+ORD-100264,CUST-10231,2025-05-15,SEO,Mobile,North West,Hydration & Glow,Cleanser,1,34.34,0.0,34.34,True
+ORD-100487,CUST-10398,12/09/2025,Direct,Mobile,South East,Acne & Blemish,SPF,1,23.72,0.0,23.72,True
+ORD-100463,CUST-10381,2025-08-29,FB/IG Ads,Mobile,London,Acne & Blemish,Moisturiser,1,23.26,2.33,20.93,True
+ORD-100434,CUST-10034,2025-08-12,Organic Search,Mobile,South East,Sensitive Skin,Set/Bundle,2,51.43,0.0,51.43,False
+ORD-100195,CUST-10120,2025-04-19,Google Search,Tablet,Scotland,Acne & Blemish,SPF,2,32.43,0.0,32.43,False
+ORD-101046,CUST-10088,2026-06-04,Meta_Ads,Desktop,London,Acne & Blemish,Set/Bundle,2,44.26,0.0,44.26,False
+ORD-100742,CUST-10473,10/01/2026,Meta Ads,Desktop,South East,Acne & Blemish,Cleanser,1,25.45,0.0,25.45,False
+ORD-100869,CUST-10650,2026-03-25,Organic Search,Mobile,North West,Acne & Blemish,SPF,1,20.55,2.06,18.49,True
+ORD-100634,CUST-10392,26/11/2025,SEO,Desktop,Other UK,Hydration & Glow,Mask,2,44.68,13.33,31.35,False
+ORD-100349,CUST-10299,22/06/2025,Meta Ads,Mobile,South East,Sensitive Skin,Mask,1,40.49,4.05,36.44,True
+ORD-100663,CUST-10513,02/12/2025,Organic Search,Desktop,South East,Sensitive Skin,Serum,1,33.89,4.76,29.13,True
+ORD-100410,CUST-10296,27/07/2025,Google_Shopping,Desktop,South East,Hydration & Glow,Serum,1,30.83,0.0,30.83,False
+ORD-100644,CUST-10263,2025-11-28,Organic Search,Desktop,London,Hydration & Glow,Set/Bundle,3,52.03,12.87,39.16,False
+ORD-100336,,2025-06-18,Google Search,Mobile,South East,Sensitive Skin,Serum,1,33.26,0.0,33.26,False
+ORD-100274,CUST-10239,19/05/2025,Google_Search,Mobile,Other UK,Anti-Ageing,SPF,1,35.34,0.0,35.34,True
+ORD-100872,CUST-10653,2026-03-26,google search,Desktop,London,Hydration & Glow,Mask,3,71.75,7.18,64.57,True
+ORD-100214,CUST-10183,2025-04-28,Organic Search,Desktop,North West,Anti-Ageing,Mask,1,57.34,0.0,57.34,False
+ORD-101036,CUST-10755,31/05/2026,Google_Search,Desktop,North West,Acne & Blemish,Cleanser,3,46.9,0.0,46.9,True
+ORD-100150,CUST-10142,2025-03-29,Email,Desktop,London,Anti-Ageing,Serum,1,32.84,0.0,32.84,True
+ORD-101007,CUST-10739,21/05/2026,Organic Search,Mobile,Other UK,Anti-Ageing,Serum,1,41.93,4.19,37.74,True
+ORD-100709,CUST-10541,22/12/2025,Organic Search,Mobile,London,Hydration & Glow,Mask,1,32.92,4.79,28.13,True
+ORD-100163,CUST-10152,2025-04-05,Google_Search,Desktop,North West,Hydration & Glow,Moisturiser,1,28.12,0.0,28.12,True
+ORD-100295,CUST-10119,27/05/2025,Google Shopping,Mobile,London,Sensitive Skin,Cleanser,3,64.53,0.0,64.53,False
+ORD-100312,CUST-10266,02/06/2025,Google Shopping,Mobile,Other UK,Acne & Blemish,Set/Bundle,1,29.38,0.0,29.38,True
+ORD-101050,CUST-10764,05/06/2026,Organic Search,Mobile,South East,Acne & Blemish,Mask,1,29.78,2.98,26.8,True
+ORD-100516,CUST-10418,28/09/2025,Organic Search,Mobile,Other UK,Sensitive Skin,SPF,1,35.98,3.6,32.38,True
+ORD-100884,CUST-10481,2026-04-01,Organic Search,Desktop,Other UK,Anti-Ageing,Moisturiser,2,70.5,0.0,70.5,False
+ORD-100120,CUST-10116,2025-03-11,Google Search,Desktop,London,Acne & Blemish,Cleanser,1,25.36,0.0,25.36,True
+ORD-100871,CUST-10652,2026-03-26,Google Search,Desktop,Scotland,Acne & Blemish,Serum,1,31.55,0.0,31.55,True
+ORD-100503,CUST-10410,22/09/2025,Google Search,Mobile,London,Acne & Blemish,Moisturiser,1,25.67,0.0,25.67,True
+ORD-100550,CUST-10442,2025-10-15,Email,Desktop,South East,Hydration & Glow,Mask,1,33.44,0.0,33.44,True
+ORD-100620,CUST-10486,2025-11-23,Google Search,Tablet,North West,Hydration & Glow,Mask,2,62.22,0.0,62.22,True
+ORD-100602,CUST-10476,2025-11-13,Google Search,Mobile,South East,Hydration & Glow,Moisturiser,1,30.3,0.0,30.3,True
+ORD-100511,CUST-10415,2025-09-24,Email,Mobile,London,Hydration & Glow,Mask,3,65.82,0.0,65.82,True
+ORD-100183,CUST-10169,2025-04-13,Organic Search,Mobile,North West,Acne & Blemish,Moisturiser,3,56.7,0.0,56.7,True
+ORD-100725,CUST-10551,2026-01-02,Google_Search,Tablet,South East,Anti-Ageing,Moisturiser,1,45.73,4.57,41.16,True
+ORD-100628,CUST-10492,2025-11-25,Organic Search,Mobile,Scotland,Anti-Ageing,Mask,3,78.82,19.53,59.29,True
+ORD-100655,CUST-10506,2025-11-30,Direct,Desktop,Other UK,Anti-Ageing,Serum,1,42.92,13.33,29.59,True
+ORD-100330,CUST-10213,2025-06-15,Google_Search,Desktop,South East,Hydration & Glow,Moisturiser,2,41.29,0.0,41.29,False
+ORD-100097,CUST-10095,2025-02-26,Meta Ads,Desktop,South East,Sensitive Skin,Mask,2,50.11,0.0,50.11,True
+ORD-100921,CUST-10432,2026-04-18,Google Search,Desktop,North West,Anti-Ageing,SPF,2,68.03,0.0,68.03,False
+ORD-100187,CUST-10173,14/04/2025,Meta Ads,Mobile,North West,Acne & Blemish,Cleanser,2,36.83,0.0,36.83,True
+ORD-100311,CUST-10265,2025-06-02,Email,Desktop,Scotland,Acne & Blemish,Set/Bundle,1,29.26,0.0,29.26,True
+ORD-101092,CUST-10796,2026-06-24,Meta Ads,Desktop,London,Sensitive Skin,Cleanser,2,63.75,0.0,63.75,True
+ORD-100747,CUST-10566,14/01/2026,affiliate,Mobile,Other UK,Anti-Ageing,SPF,1,48.59,0.0,48.59,True
+ORD-101055,CUST-10064,2026-06-07,Google Search,Desktop,South East,Acne & Blemish,Serum,1,21.29,0.0,21.29,False
+ORD-100060,CUST-10058,2025-02-10,Google Search,Desktop,North West,Hydration & Glow,Moisturiser,2,56.11,0.0,56.11,True
+ORD-100513,CUST-10251,25/09/2025,Google Shopping,Mobile,London,Acne & Blemish,Mask,1,27.88,0.0,27.88,False
+ORD-100050,CUST-10048,2025-02-04,Direct,Desktop,Other UK,Anti-Ageing,Moisturiser,2,71.13,0.0,71.13,True
+ORD-100224,CUST-10201,01/05/2025,Email,Desktop,London,Hydration & Glow,SPF,1,26.02,2.6,23.42,True
+ORD-100750,CUST-10567,2026-01-15,Organic_Search,Mobile,London,Sensitive Skin,SPF,2,46.39,0.0,46.39,True
+ORD-100456,CUST-10374,2025-08-24,Meta Ads,Desktop,London,Acne & Blemish,SPF,1,26.81,0.0,26.81,True
+ORD-100304,CUST-10258,2025-05-31,Email,Desktop,London,Acne & Blemish,SPF,1,23.92,0.0,23.92,True
+ORD-100288,CUST-10249,24/05/2025,Google Shopping,Desktop,Scotland,Acne & Blemish,Cleanser,1,29.35,2.94,26.41,True
+ORD-101091,CUST-10795,24/06/2026,Google Search,Desktop,Scotland,Anti-Ageing,Cleanser,1,38.46,3.85,34.61,True
+ORD-100590,CUST-10469,07/11/2025,Google Search,Desktop,Scotland,Hydration & Glow,Moisturiser,1,33.53,0.0,33.53,True
+ORD-100799,CUST-10601,2026-02-18,SEO,Mobile,South East,Acne & Blemish,Serum,1,21.42,0.0,21.42,True
+ORD-100837,CUST-10584,2026-03-11,Email,Desktop,Other UK,Anti-Ageing,Serum,1,37.6,3.76,33.84,False
+ORD-101046,CUST-10088,2026-06-04,Meta_Ads,Desktop,London,Acne & Blemish,Set/Bundle,2,44.26,0.0,44.26,False
+ORD-100544,CUST-10121,2025-10-11,(direct),Mobile,London,Anti-Ageing,Cleanser,1,47.46,0.0,47.46,False
+ORD-100009,CUST-10009,06/01/2025,DIRECT,Desktop,Other UK,Hydration & Glow,Serum,1,28.95,0.0,28.95,True
+ORD-100109,CUST-10035,2025-03-06,meta ads,Mobile,North West,Anti-Ageing,Moisturiser,1,53.13,0.0,53.13,False
+ORD-100579,CUST-10460,02/11/2025,GOOGLE SEARCH,Desktop,North West,Anti-Ageing  ,Serum,1,41.21,4.12,37.09,True
+ORD-100808,CUST-10606,2026-02-24,FB/IG Ads,Mobile,South East,Hydration & Glow,Moisturiser,1,34.72,0.0,34.72,True
+ORD-100622,CUST-10348,23/11/2025,Affiliate,Desktop,Scotland,Hydration & Glow,Moisturiser,1,30.14,3.01,27.13,False
+ORD-100881,CUST-10660,2026-03-30,Affiliate,Mobile,Scotland,Acne & Blemish,Serum,1,27.13,0.0,27.13,True
+ORD-100792,CUST-10596,2026-02-14,Google Search,Mobile,London,Sensitive Skin,Serum,3,73.08,7.31,65.77,True
+ORD-100687,CUST-10070,2025-12-12,Organic Search,Desktop,London,Hydration & Glow,Moisturiser,1,27.51,3.1,24.41,False
+ORD-100697,CUST-10532,2025-12-15,meta ads,Desktop,North West,Hydration & Glow,SPF,1,32.15,4.58,27.57,True
+ORD-100633,CUST-10495,2025-11-26,Organic Search,Tablet,South East,Acne & Blemish,Mask,1,26.52,6.93,19.59,True
+ORD-100841,CUST-10630,13/03/2026,Google Search,Mobile,South East,Hydration & Glow,Moisturiser,1,28.6,0.0,28.6,True
+ORD-100964,CUST-10714,2026-05-06,Meta Ads,Desktop,London,Sensitive Skin,Serum,2,49.55,0.0,49.55,True
+ORD-100957,CUST-10709,2026-05-04,Email,Desktop,Other UK,Acne & Blemish,Set/Bundle,2,41.3,0.0,41.3,True
+ORD-100408,CUST-10343,2025-07-27,meta ads,Mobile,South East,Acne & Blemish,Serum,1,26.38,0.0,26.38,True
+ORD-100259,CUST-10085,2025-05-14,Google Shopping,Mobile,London,Anti-Ageing,SPF,2,81.12,8.11,73.01,False
+ORD-100469,CUST-10122,2025-09-01,Meta Ads,Mobile,Scotland,Anti-Ageing,Serum,1,36.12,0.0,36.12,False
+ORD-100006,CUST-10006,04/01/2025,Organic Search,Tablet,London,Hydration & Glow,SPF,2,44.92,0.0,44.92,True
+ORD-100980,CUST-10724,2026-05-13,Organic Search,Desktop,South East,Acne & Blemish,Moisturiser,2,40.74,0.0,40.74,True
+ORD-100026,CUST-10026,2025-01-12,Organic Search,Desktop,Scotland,Acne & Blemish,Moisturiser,2,46.7,4.67,42.03,True
+ORD-100800,CUST-10602,18/02/2026,Organic Search,Mobile,London,Anti-Ageing,Serum,1,37.71,0.0,37.71,True
+ORD-100321,CUST-10274,2025-06-09,Email,Desktop,South East,Sensitive Skin,Moisturiser,1,33.4,3.34,30.06,True
+ORD-100594,CUST-10471,2025-11-10,SEO,Desktop,London,Hydration & Glow,Moisturiser,1,28.28,2.83,25.45,True
+ORD-100376,CUST-10320,05/07/2025,Organic Search,Mobile,North West,Sensitive Skin,Cleanser,2,53.64,5.36,48.28,True
+ORD-100016,CUST-10016,09/01/2025,Direct,Tablet,North West,Acne & Blemish,Mask,1,25.69,0.0,25.69,True
+ORD-100652,CUST-10140,30/11/2025,GOOGLE SEARCH,Mobile,South East,Hydration & Glow,Serum,3,62.44,17.82,44.62,False
+ORD-101065,,2026-06-11,email,Mobile,South East,Anti-Ageing,Serum,1,44.64,0.0,44.64,True
+ORD-100220,CUST-10197,2025-04-30,Organic Search,Desktop,London,Sensitive Skin,Cleanser,1,32.86,0.0,32.86,True
+ORD-100976,CUST-10628,12/05/2026,Google_Shopping,Mobile,London,Anti-Ageing,Set/Bundle,1,36.47,0.0,36.47,False
+ORD-100557,CUST-10211,19/10/2025,Email,Mobile,South East,Anti-Ageing,Serum,3,91.54,0.0,91.54,False
+ORD-100864,CUST-10329,24/03/2026,Google Search,Desktop,London,Hydration & Glow,SPF,1,27.03,0.0,27.03,False
+ORD-100681,CUST-10475,08/12/2025,EMAIL,Mobile,Other UK,Hydration & Glow,Moisturiser,2,34.16,6.8,27.36,False
+ORD-100767,CUST-10337,02/02/2026,Google  Search,Tablet,North West,Sensitive Skin,Moisturiser,1,26.28,0.0,26.28,False
+ORD-101080,CUST-10785,2026-06-19,email,Tablet,South East,Anti-Ageing,Moisturiser,1,39.6,0.0,39.6,True
+ORD-100823,CUST-10618,2026-03-05,Google Search,Desktop,Other UK,Hydration & Glow,Mask,3,73.92,0.0,73.92,True
+ORD-100833,CUST-10624,2026-03-10,SEO,Mobile,Other UK,Acne & Blemish,Mask,1,23.7,2.37,21.33,True
+ORD-100752,CUST-10314,2026-01-17,Google Search,Desktop,Scotland,Hydration & Glow,Moisturiser,1,32.52,0.0,32.52,False
+ORD-100402,CUST-10339,2025-07-22,SEO,Mobile,Scotland,Anti-Ageing,Moisturiser,2,71.46,7.15,64.31,True
+ORD-100541,CUST-10436,2025-10-10,email,Mobile,Other UK,Anti-Ageing,Serum,1,36.01,0.0,36.01,True
+ORD-100002,CUST-10002,2025-01-02,Email,Mobile,South East,Acne & Blemish,SPF,1,27.37,0.0,27.37,True
+ORD-101050,CUST-10764,05/06/2026,Organic Search,Mobile,South East,Acne & Blemish,Mask,1,29.78,2.98,26.8,True
+ORD-100672,CUST-10214,2025-12-04,Organic Search,Mobile,London,Hydration & Glow,Mask,1,30.37,5.49,24.88,False
+ORD-100161,CUST-10041,2025-04-04,Google Search,Mobile,Other UK,Acne & Blemish,Mask,1,27.2,0.0,27.2,False
+ORD-100064,CUST-10062,2025-02-12,Google Shopping,Desktop,Other UK,Anti-Ageing,Cleanser,1,35.52,0.0,35.52,True
+ORD-101051,CUST-10765,2026-06-05,Organic Search,Mobile,Scotland,Hydration & Glow,Serum,1,31.3,0.0,31.3,True
+ORD-100353,CUST-10145,2025-06-23,Email,Desktop,Scotland,Sensitive Skin,Moisturiser,1,37.31,0.0,37.31,False
+ORD-100437,CUST-10047,2025-08-14,Organic Search,Mobile,South East,Anti-Ageing,Moisturiser,1,46.25,0.0,46.25,False
+ORD-100034,CUST-10033,2025-01-24,Email,Desktop,Other UK,Sensitive Skin,Cleanser,1,35.97,0.0,35.97,True
+ORD-100189,CUST-10175,2025-04-15,Meta Ads,Mobile,London,Acne & Blemish,SPF,2,45.37,0.0,45.37,True
+ORD-101028,CUST-10521,29/05/2026,Google Shopping,Desktop,Other UK,Anti-Ageing,Cleanser,1,40.33,0.0,40.33,False
+ORD-100657,CUST-10508,2025-12-01,Direct,Mobile,North West,Hydration & Glow,Moisturiser,1,36.86,6.32,30.54,True
+ORD-101063,CUST-10185,10/06/2026,Affiliate,Mobile,Scotland,Anti-Ageing,Serum,1,42.05,0.0,42.05,False
+ORD-100671,CUST-10519,2025-12-04,Facebook/Instagram Ads,Mobile,Other UK,Hydration & Glow,SPF,2,53.7,9.59,44.11,True
+ORD-100626,CUST-10490,2025-11-25,Google Shopping,Tablet,London,Anti-Ageing,Mask,1,40.33,10.5,29.83,True
+ORD-100593,CUST-10253,2025-11-10,Google Search,Tablet,South East,Hydration & Glow,Cleanser,2,49.98,0.0,49.98,False
+ORD-100072,CUST-10070,15/02/2025,Google Search,Desktop,London,Hydration & Glow,Mask,1,34.6,3.46,31.14,True
+ORD-100315,CUST-10269,04/06/2025,Direct,Mobile,Other UK,Acne & Blemish,Set/Bundle,1,30.3,0.0,30.3,True
+ORD-100466,CUST-10384,29/08/2025,Meta Ads,Desktop,Other UK,Acne & Blemish,Serum,2,46.64,0.0,46.64,True
+ORD-100501,CUST-10408,2025-09-21,Meta Ads,Mobile,London,Anti-Ageing,Moisturiser,3,90.37,0.0,90.37,True
+ORD-101032,CUST-10751,2026-05-30,Organic Search,Desktop,Scotland,Sensitive Skin  ,SPF,1,44.0,0.0,44.0,True
+ORD-100645,CUST-10499,29/11/2025,Google  Search,Desktop,London,Acne & Blemish,SPF,1,25.94,7.3,18.64,True
+ORD-100786,CUST-10058,2026-02-12,Direct,Desktop,North West,Hydration & Glow,Mask,3,74.49,0.0,74.49,False
+ORD-100028,CUST-10028,2025-01-14,Google Search,Mobile,North West,Anti-Ageing,Cleanser,1,36.29,0.0,36.29,True
+ORD-100273,CUST-10238,19/05/2025,Affiliate ,Mobile,South East,Acne & Blemish,SPF,1,27.5,0.0,27.5,True
+ORD-100229,CUST-10206,01/05/2025,Organic Search,Desktop,London,Hydration & Glow,Moisturiser,1,27.38,0.0,27.38,True
+ORD-100535,CUST-10433,2025-10-09,Organic Search,Desktop,South East,Hydration & Glow,Moisturiser,2,49.1,0.0,49.1,True
+ORD-100581,CUST-10462,2025-11-03,EMAIL,Tablet,London,Sensitive Skin,Cleanser,1,29.02,0.0,29.02,True
+ORD-100776,CUST-10586,06/02/2026,Email,Mobile,Other UK,Acne & Blemish,SPF,1,26.3,0.0,26.3,True
+ORD-100784,CUST-10592,2026-02-11,Organic Search,Tablet,Scotland,Acne & Blemish,Cleanser,2,41.08,0.0,41.08,True
+ORD-100940,CUST-10695,2026-04-25,Google Shopping,Tablet,London,Acne & Blemish,SPF,2,31.54,0.0,31.54,True
+ORD-100241,CUST-10215,06/05/2025,Direct,Tablet,South East,Acne & Blemish,Cleanser,1,26.86,2.69,24.17,True
+ORD-100351,CUST-10122,2025-06-23,GOOGLE SHOPPING,Desktop,Scotland,Anti-Ageing,Moisturiser,1,41.44,0.0,41.44,False
+ORD-100299,CUST-10255,28/05/2025,Google Shopping,Desktop,North West,Acne & Blemish,Cleanser,1,22.63,0.0,22.63,True
+ORD-100831,CUST-10018,2026-03-10,Google  Search,Mobile,North West,Anti-Ageing,Cleanser,2,64.04,0.0,64.04,False
+ORD-100623,CUST-10488,2025-11-24,meta ads,Tablet,London,Anti-Ageing,Mask,1,48.64,14.43,34.21,True
+ORD-100339,CUST-10289,2025-06-18,Direct,Tablet,Scotland,Acne & Blemish,Serum,2,36.7,3.67,33.03,True
+ORD-100914,CUST-10680,2026-04-16,Meta Ads,Mobile,London,Hydration & Glow,Serum,3,65.04,0.0,65.04,True
+ORD-100953,CUST-10089,2026-05-03,Organic Search,Mobile,London,Sensitive Skin,Cleanser,1,35.37,0.0,35.37,False
+ORD-100961,CUST-10447,2026-05-05,SEO,Mobile,North West,Anti-Ageing  ,Set/Bundle,2,70.29,0.0,70.29,False
+ORD-100212,CUST-10193,2025-04-27,Email,Mobile,Scotland,Anti-Ageing,Moisturiser,1,45.87,0.0,45.87,True
+ORD-100500,CUST-10004,2025-09-20,Organic Search,Mobile,London,Acne & Blemish,Mask,1,23.34,0.0,23.34,False
+ORD-100568,CUST-10452,2025-10-29,Direct,Desktop,South East,Hydration & Glow,Moisturiser,1,31.7,0.0,31.7,True
+ORD-100497,CUST-10406,2025-09-16,Direct,Mobile,Scotland,Hydration & Glow,SPF,1,31.87,3.19,28.68,True
+ORD-101042,CUST-10760,2026-06-02,Meta_Ads,Desktop,South East,Acne & Blemish,Mask,3,42.06,0.0,42.06,True
+ORD-100235,CUST-10211,2025-05-03,organic search,Desktop,South East,Anti-Ageing,SPF,1,41.15,0.0,41.15,True
+ORD-100698,CUST-10533,15/12/2025,Affiliate,Desktop,North West,Acne & Blemish,Mask,1,27.78,3.32,24.46,True
+ORD-100522,CUST-10423,01/10/2025,Meta_Ads,Tablet,London,Sensitive Skin,Serum,1,37.41,0.0,37.41,True
+ORD-100764,CUST-10411,2026-01-30,Google Search,Mobile,South East,Anti-Ageing,Moisturiser,2,64.96,0.0,64.96,False
+ORD-100939,CUST-10694,2026-04-25,Email,Desktop,South East,Acne & Blemish,Cleanser,1,28.58,2.86,25.72,True
+ORD-100444,CUST-10366,2025-08-17,Email,Desktop,London,Sensitive Skin,Moisturiser,3,74.17,0.0,74.17,True
+ORD-100870,CUST-10651,2026-03-25,EMAIL,Mobile,South East,Hydration & Glow,Moisturiser,1,33.27,0.0,33.27,True
+ORD-100502,CUST-10409,22/09/2025,Google Search,Desktop,North West,Acne & Blemish,Cleanser,1,26.88,0.0,26.88,True
+ORD-100228,CUST-10205,2025-05-01,Google Search,Mobile,Scotland,Sensitive Skin,Cleanser,2,52.22,0.0,52.22,True
+ORD-101035,CUST-10754,31/05/2026,Google Shopping,Desktop,Scotland,Acne & Blemish,SPF,1,34.54,0.0,34.54,True
+ORD-100891,CUST-10666,2026-04-04,Google Search,Mobile,Other UK,Hydration & Glow,Mask,1,31.3,0.0,31.3,True
+ORD-100773,CUST-10583,2026-02-05,AFFILIATE,Mobile,South East,Hydration & Glow,Mask,1,28.74,2.87,25.87,True
+ORD-100956,CUST-10708,04/05/2026,Organic Search,Mobile,London,Anti-Ageing,Moisturiser,1,41.77,0.0,41.77,True
+ORD-101004,CUST-10729,2026-05-20,Google Search,Desktop,North West,Hydration & Glow,Moisturiser,1,36.41,0.0,36.41,False
+ORD-100085,CUST-10083,21/02/2025,meta ads,Mobile,North West,Acne & Blemish,SPF,1,27.1,0.0,27.1,True
+ORD-100669,CUST-10517,2025-12-04,google shopping,Desktop,North West,Hydration & Glow,Cleanser,1,29.29,5.0,24.29,True
+ORD-100159,CUST-10150,2025-04-03,Google_Shopping,Mobile,Other UK,Hydration & Glow  ,Mask,1,23.41,0.0,23.41,True
+ORD-100314,CUST-10268,04/06/2025,Email,Desktop,Scotland,Sensitive Skin,Cleanser,1,38.92,0.0,38.92,True
+ORD-101077,CUST-10782,2026-06-17,Google_Shopping,Desktop,South East,Hydration & Glow,Serum,2,36.18,0.0,36.18,True
+ORD-100371,CUST-10315,04/07/2025,Google Search,Desktop,South East,Acne & Blemish,Moisturiser,1,19.51,0.0,19.51,True
+ORD-100705,CUST-10539,2025-12-19,Meta Ads,Desktop,Other UK,Hydration & Glow,Serum,1,30.81,3.6,27.21,True
+ORD-100316,CUST-10270,05/06/2025,Google Search,Mobile,Other UK,Anti-Ageing,Moisturiser,2,59.19,5.92,53.27,True
+ORD-100782,CUST-10590,2026-02-10,Meta Ads,Desktop,North West,Anti-Ageing,Serum,2,68.21,0.0,68.21,True
+ORD-100715,CUST-10543,2025-12-25,Organic Search,Tablet,North West,Acne & Blemish,Mask,2,34.32,3.43,30.89,True
+ORD-100754,CUST-10569,2026-01-19,Organic Search,Desktop,London,Anti-Ageing,Moisturiser,1,42.2,4.22,37.98,True
+ORD-100403,CUST-10188,2025-07-22,Email,Mobile,South East,Anti-Ageing,Serum,1,34.66,0.0,34.66,False
+ORD-101067,CUST-10776,2026-06-13,Direct,Mobile,Scotland,Anti-Ageing,Serum,2,63.94,0.0,63.94,True
+ORD-100906,CUST-10677,2026-04-13,Google_Shopping,Desktop,London,Acne & Blemish,SPF,1,30.03,3.0,27.03,True
+ORD-100343,CUST-10293,2025-06-20,Google Shopping,Mobile,Scotland,Hydration & Glow,Moisturiser,1,31.77,0.0,31.77,True
+ORD-100123,CUST-10119,2025-03-14,Google Search,Tablet,London,Sensitive Skin,Cleanser,1,28.52,2.85,25.67,True
+ORD-100192,CUST-10178,2025-04-15,direct,Mobile,South East,Hydration & Glow,Serum,1,28.07,0.0,28.07,True
+ORD-100474,CUST-10349,05/09/2025,Email,Desktop,London,Hydration & Glow,SPF,1,34.9,3.49,31.41,False
+ORD-100920,CUST-10684,18/04/2026,Meta Ads,Desktop,South East,Hydration & Glow,SPF,1,31.99,3.2,28.79,True
+ORD-101031,CUST-10029,2026-05-30,Google Shopping,Tablet,London,Acne & Blemish,Cleanser,3,48.31,0.0,48.31,False
+ORD-100359,CUST-10305,2025-06-27,SEO,Mobile,Other UK,Acne & Blemish,SPF,2,43.66,0.0,43.66,True
+ORD-100813,CUST-10610,2026-02-27,Organic Search,Mobile,London,Anti-Ageing,Moisturiser,2,60.11,0.0,60.11,True
+ORD-100806,CUST-10590,2026-02-24,Google Search,Tablet,North West,Anti-Ageing,Serum,2,71.08,0.0,71.08,False
+ORD-100863,CUST-10646,2026-03-24,Affiliate,Mobile,North West,Acne & Blemish,SPF,2,39.66,0.0,39.66,True
+ORD-100165,CUST-10152,2025-04-05,Organic_Search,Mobile,North West,Hydration & Glow,Mask,2,43.96,0.0,43.96,False
+ORD-100640,CUST-10498,2025-11-28,EMAIL,Desktop,London,Hydration & Glow,Mask,3,59.05,12.22,46.83,True
+ORD-100812,CUST-10609,2026-02-27,Organic Search,Mobile,London,Sensitive Skin,Mask,1,30.71,0.0,30.71,True
+ORD-100096,CUST-10094,2025-02-26,Google Search,Mobile,Other UK,Acne & Blemish,Cleanser,1,23.34,0.0,23.34,True
+ORD-100821,CUST-10616,2026-03-04,Facebook/Instagram Ads,Mobile,London,Anti-Ageing,Serum,1,35.94,0.0,35.94,True
+ORD-101070,CUST-10779,2026-06-13,Google Search,Desktop,London,Sensitive Skin  ,Cleanser,2,50.58,0.0,50.58,True
+ORD-100678,CUST-10371,2025-12-07,Google Search,Desktop,London,Hydration & Glow,Mask,1,31.19,6.07,25.12,False
+ORD-100616,CUST-10328,2025-11-19,GOOGLE SEARCH,Mobile,North West,Sensitive Skin,Cleanser,1,34.58,3.46,31.12,False
+ORD-100136,CUST-10130,21/03/2025,Google Search,Desktop,London,Anti-Ageing,Cleanser,1,49.71,0.0,49.71,True
+ORD-100985,CUST-10727,15/05/2026,FB/IG Ads,Mobile,North West,Hydration & Glow,Mask,2,51.98,0.0,51.98,True
+ORD-100374,CUST-10318,04/07/2025,Direct,Desktop,South East,Sensitive Skin,Moisturiser,1,32.43,0.0,32.43,True
+ORD-100551,CUST-10201,16/10/2025,Direct,Desktop,London,Hydration & Glow,Mask,2,46.07,0.0,46.07,False
+ORD-100261,CUST-10228,2025-05-14,Organic Search,Tablet,Other UK,Anti-Ageing,Moisturiser,2,75.91,0.0,75.91,True
+ORD-100396,CUST-10241,17/07/2025,Google Shopping,Mobile,North West,Hydration & Glow,Moisturiser,1,27.72,2.77,24.95,False
+ORD-100689,CUST-10526,2025-12-12,Google Search,Mobile,South East,Hydration & Glow,Cleanser,3,59.74,7.02,52.72,True
+ORD-100874,CUST-10654,2026-03-26,Google Shopping,Mobile,South East,Sensitive Skin,Moisturiser,3,79.24,0.0,79.24,True
+ORD-100665,CUST-10372,03/12/2025,Google  Search,Desktop,North West,Anti-Ageing,SPF,1,33.56,4.67,28.89,False
+ORD-101041,CUST-10759,2026-06-02,Google Search,Mobile,London,Acne & Blemish,Cleanser,1,27.44,0.0,27.44,True
+ORD-100993,CUST-10734,17/05/2026,(direct),Desktop,South East,Acne & Blemish,Set/Bundle,1,27.29,0.0,27.29,True
+ORD-100853,CUST-10640,2026-03-20,Google Shopping,Mobile,South East,Sensitive Skin,Cleanser,1,39.45,0.0,39.45,True
+ORD-100909,CUST-10393,2026-04-15,Meta Ads,Mobile,South East,Acne & Blemish,Moisturiser,1,26.88,0.0,26.88,False
+ORD-100139,,2025-03-22,Meta Ads,Mobile,South East,Hydration & Glow,Moisturiser,1,29.36,0.0,29.36,False
+ORD-100191,CUST-10177,2025-04-15,Email,Mobile,Other UK,Sensitive Skin,SPF,1,34.85,0.0,34.85,True
+ORD-100421,CUST-10349,2025-08-03,SEO,Mobile,London,Hydration & Glow,Mask,1,33.6,0.0,33.6,True
+ORD-100494,CUST-10404,2025-09-15,Meta Ads,Mobile,London,Hydration & Glow,Cleanser,1,31.11,0.0,31.11,True
+ORD-100979,CUST-10723,2026-05-13,Affiliate,Mobile,South East,Hydration & Glow,Moisturiser,2,47.4,0.0,47.4,True
+ORD-100413,CUST-10147,28/07/2025,Google Search,Desktop,North West,Hydration & Glow,Mask,1,35.24,3.52,31.72,False
+ORD-100937,CUST-10693,2026-04-25,Organic_Search,Mobile,South East,Sensitive Skin,Moisturiser,3,81.54,0.0,81.54,True
+ORD-100819,CUST-10614,2026-03-02,Email,Mobile,London,Sensitive Skin,Cleanser,3,70.97,0.0,70.97,True
+ORD-100014,CUST-10014,08/01/2025,Meta Ads,Desktop,North West,Hydration & Glow,Mask,1,31.48,0.0,31.48,True
+ORD-100584,CUST-10464,2025-11-05,Email,Mobile,Scotland,Anti-Ageing,Moisturiser,1,45.15,4.51,40.64,True
+ORD-100609,CUST-10479,2025-11-15,google shopping,Desktop,South East,Anti-Ageing,Moisturiser,1,39.19,0.0,39.19,True
+ORD-100189,CUST-10175,2025-04-15,Meta Ads,Mobile,London,Acne & Blemish,SPF,2,45.37,0.0,45.37,True
+ORD-100222,CUST-10199,2025-05-01,Direct,Desktop,London,Acne & Blemish,Cleanser,1,22.4,0.0,22.4,True
+ORD-100900,CUST-10673,2026-04-09,Organic Search,Mobile,South East,Sensitive Skin,Cleanser,1,35.27,0.0,35.27,True
+ORD-100763,CUST-10577,2026-01-30,Google Search,Desktop,Other UK,Hydration & Glow,Cleanser,1,27.93,0.0,27.93,True
+ORD-100048,CUST-10046,2025-02-03,Meta Ads,Desktop,South East,Acne & Blemish,Cleanser,2,35.45,3.55,31.9,True
+ORD-100523,CUST-10424,2025-10-01,Affiliate,Desktop,Other UK,Hydration & Glow,Cleanser,1,33.94,0.0,33.94,True
+ORD-100204,CUST-10186,2025-04-23,Email,Desktop,South East,Acne & Blemish,SPF,1,28.22,0.0,28.22,True
+ORD-101073,CUST-10544,2026-06-15,Google_Search,Mobile,London,Hydration & Glow,Mask,1,28.61,0.0,28.61,False
+ORD-100650,CUST-10502,2025-11-29,Direct,Tablet,London,Sensitive Skin,Mask,1,37.53,7.69,29.84,True
+ORD-101083,CUST-10787,2026-06-21,Email,Desktop,London,Hydration & Glow,Moisturiser,1,31.77,0.0,31.77,True
+ORD-100728,CUST-10553,2026-01-04,Affiliate,Desktop,London,Hydration & Glow,Mask,3,47.55,4.76,42.79,True
+ORD-100280,CUST-10244,2025-05-21,Direct,Mobile,North West,Acne & Blemish,SPF,1,25.38,2.54,22.84,True
+ORD-100695,CUST-10530,14/12/2025,organic search,Desktop,Scotland,Acne & Blemish,Moisturiser,2,32.77,4.38,28.39,True
+ORD-100460,CUST-10378,2025-08-28,Google Search,Desktop,London,Acne & Blemish,Cleanser,1,33.07,0.0,33.07,True
+ORD-100004,CUST-10004,04/01/2025,Google Shopping,Mobile,London,Acne & Blemish,Mask,1,25.66,0.0,25.66,True
+ORD-100162,CUST-10151,2025-04-04,affiliate,Mobile,Scotland,Sensitive Skin,Cleanser,2,51.55,0.0,51.55,True
+ORD-100372,CUST-10316,2025-07-04,Google Shopping,Desktop,London,Acne & Blemish,SPF,1,27.62,0.0,27.62,True
+ORD-100361,CUST-10307,28/06/2025,Organic_Search,Desktop,North West,Acne & Blemish,SPF,2,30.46,0.0,30.46,True
+ORD-100647,CUST-10340,2025-11-29,Google Search,Mobile,London,Anti-Ageing,Mask,1,44.3,10.81,33.49,False
+ORD-100528,CUST-10130,2025-10-04,Meta Ads,Mobile,London,Anti-Ageing,Serum,1,44.12,0.0,44.12,False
+ORD-100069,CUST-10067,2025-02-14,Google Shopping,Mobile,South East,Acne & Blemish,SPF,1,28.09,0.0,28.09,True
+ORD-100586,CUST-10466,2025-11-07,Direct,Tablet,London,Acne & Blemish,Cleanser,1,26.94,2.69,24.25,True
+ORD-100045,CUST-10042,01/02/2025,Organic Search,Desktop,Other UK,Sensitive Skin,Serum,1,34.78,0.0,34.78,False
+ORD-100098,CUST-10096,2025-02-26,Organic Search,Tablet,North West,Anti-Ageing,Serum,1,42.85,0.0,42.85,True
+ORD-100610,CUST-10480,2025-11-15,Organic Search,Mobile,London,Acne & Blemish,SPF,1,29.31,0.0,29.31,True
+ORD-100508,CUST-10049,23/09/2025,Meta Ads,Desktop,London,Anti-Ageing,Serum,3,86.55,8.65,77.9,False
+ORD-100032,CUST-10031,2025-01-19,Organic Search,Desktop,Scotland,Anti-Ageing,Cleanser,2,59.81,0.0,59.81,True
+ORD-100056,CUST-10054,2025-02-07,SEO,Desktop,Scotland,Sensitive Skin,Mask,2,53.64,0.0,53.64,True
+ORD-101102,CUST-10804,28/06/2026,meta ads,Mobile,North West,Sensitive Skin,Cleanser,1,31.49,0.0,31.49,True
+ORD-100861,CUST-10645,2026-03-23,EMAIL,Desktop,South East,Acne & Blemish,Mask,1,26.31,2.63,23.68,True
+ORD-101095,CUST-10797,25/06/2026,Google_Search,Desktop,London,Sensitive Skin,Moisturiser,1,33.57,0.0,33.57,True
+ORD-100384,CUST-10327,10/07/2025,Email,Desktop,London,Hydration & Glow,Moisturiser,1,32.03,0.0,32.03,True
+ORD-100572,CUST-10456,2025-10-29,Google Shopping,Tablet,South East,Anti-Ageing,Set/Bundle,1,50.87,0.0,50.87,True
+ORD-101084,CUST-10788,2026-06-21,Google Search,Desktop,South East,Hydration & Glow,Set/Bundle,3,72.73,0.0,72.73,True
+ORD-100190,CUST-10176,2025-04-15,Email,Desktop,South East,Acne & Blemish,Serum,2,36.16,0.0,36.16,True
+ORD-100824,CUST-10405,2026-03-05,Google Search,Desktop,Other UK,Anti-Ageing,Cleanser,2,72.93,7.29,65.64,False
+ORD-100377,CUST-10321,2025-07-05,Email,Desktop,South East,Sensitive Skin,Mask,3,64.09,0.0,64.09,True
+ORD-100845,CUST-10610,2026-03-15,Google Shopping,Mobile,London,Anti-Ageing,Moisturiser,1,43.91,0.0,43.91,False
+ORD-100858,CUST-10643,22/03/2026,Organic Search,Desktop,Other UK,Anti-Ageing,Cleanser,3,82.4,0.0,82.4,True
+ORD-100517,CUST-10419,2025-09-29,Affiliate,Mobile,North West,Acne & Blemish,Cleanser,2,40.26,0.0,40.26,True
+ORD-100627,CUST-10491,2025-11-25,Meta Ads,Tablet,London,Acne & Blemish,SPF,1,20.05,6.23,13.82,True
+ORD-100613,CUST-10192,2025-11-16,Meta Ads,Desktop,North West,Sensitive Skin,Mask,2,60.3,6.03,54.27,False
+ORD-100038,CUST-10037,2025-01-28,Google Search,Mobile,Scotland,Anti-Ageing,Serum,1,43.22,0.0,43.22,True
+ORD-100073,CUST-10071,2025-02-15,Google Shopping,Mobile,South East,Hydration & Glow,Cleanser,1,27.43,0.0,27.43,True
+ORD-101098,CUST-10800,2026-06-25,Organic Search,Desktop,South East,Anti-Ageing,Moisturiser,1,45.86,0.0,45.86,True
+ORD-100556,CUST-10446,2025-10-18,(direct),Desktop,North West,Anti-Ageing,Set/Bundle,1,49.15,0.0,49.15,True
+ORD-100370,CUST-10314,2025-07-03,Email Marketing,Mobile,Scotland,Hydration & Glow,SPF,1,29.99,0.0,29.99,True
+ORD-100642,CUST-10017,2025-11-28,Meta Ads,Desktop,London,Sensitive Skin,Set/Bundle,2,54.6,16.58,38.02,False
+ORD-100401,CUST-10338,2025-07-22,GOOGLE SEARCH,Desktop,South East,Anti-Ageing  ,Set/Bundle,2,67.98,6.8,61.18,True
+ORD-100155,CUST-10147,2025-04-01,Google Shopping,Desktop,North West,Hydration & Glow,Moisturiser,1,34.84,3.48,31.36,True
+ORD-100450,CUST-10371,21/08/2025,Organic Search,Mobile,London,Hydration & Glow  ,SPF,1,32.15,0.0,32.15,True
+ORD-100938,CUST-10524,25/04/2026,Organic Search,Desktop,London,Hydration & Glow,Serum,2,42.81,0.0,42.81,False
+ORD-100964,CUST-10714,2026-05-06,Meta Ads,Desktop,London,Sensitive Skin,Serum,2,49.55,0.0,49.55,True
+ORD-101081,CUST-10764,2026-06-20,FB/IG Ads,Mobile,South East,Acne & Blemish,Mask,1,27.23,0.0,27.23,False
+ORD-100395,CUST-10336,2025-07-17,Organic Search,Mobile,South East,Sensitive Skin,Cleanser,2,48.82,0.0,48.82,True
+ORD-100488,CUST-10399,2025-09-13,Meta Ads,Desktop,Other UK,Hydration & Glow,Set/Bundle,2,45.81,4.58,41.23,True
+ORD-100252,CUST-10222,2025-05-11,Organic Search,Desktop,London,Acne & Blemish,Mask,2,47.2,0.0,47.2,True
+ORD-101093,CUST-10641,2026-06-24,Email,Mobile,South East,Acne & Blemish,Cleanser,2,45.11,0.0,45.11,False
+ORD-100267,CUST-10234,2025-05-17,Organic Search,Desktop,South East,Sensitive Skin,Moisturiser,2,51.26,0.0,51.26,True
+ORD-100465,CUST-10383,29/08/2025,Google Shopping,Tablet,London,Sensitive Skin,SPF,2,43.94,0.0,43.94,True
+ORD-100608,CUST-10478,2025-11-14,EMAIL,Mobile,South East,Acne & Blemish,Serum,2,44.17,0.0,44.17,True
+ORD-100611,CUST-10481,2025-11-15,Direct,Mobile,Other UK,Anti-Ageing,Serum,1,47.02,0.0,47.02,True
+ORD-100902,CUST-10675,2026-04-10,direct,Mobile,North West,Sensitive Skin,SPF,2,57.52,0.0,57.52,True
+ORD-100068,CUST-10066,2025-02-14,Email,Desktop,South East,Anti-Ageing,Cleanser,2,54.5,0.0,54.5,True
+ORD-100279,CUST-10110,2025-05-21,Organic Search,Desktop,Other UK,Anti-Ageing,Mask,1,42.24,4.22,38.02,False
+ORD-100310,CUST-10264,2025-05-31,Direct,Tablet,North West,Hydration & Glow,Mask,1,31.61,0.0,31.61,True
+ORD-100070,CUST-10068,2025-02-14,Google Search,Mobile,South East,Hydration & Glow,SPF,1,38.54,3.85,34.69,True
+ORD-100962,CUST-10712,05/05/2026,Organic Search,Mobile,Other UK,Acne & Blemish,Cleanser,1,29.73,0.0,29.73,True
+ORD-100666,CUST-10316,2025-12-03,Google Shopping,Desktop,London,Acne & Blemish,SPF,3,55.8,7.62,48.18,False
+ORD-100012,CUST-10012,2025-01-06,Email,Mobile,London,Acne & Blemish,Cleanser,1,24.9,0.0,24.9,True
+ORD-100053,CUST-10051,2025-02-06,google search,Desktop,South East,Acne & Blemish,Cleanser,2,49.29,0.0,49.29,True
+ORD-100240,CUST-10214,2025-05-04,Email,Mobile,London,Hydration & Glow,Set/Bundle,1,27.95,0.0,27.95,True
+ORD-100291,CUST-10251,2025-05-25,Google Shopping,Desktop,London,Acne & Blemish,Serum,3,52.78,5.28,47.5,True
+ORD-100167,CUST-10155,2025-04-07,Meta Ads,Desktop,South East,Acne & Blemish,Cleanser,2,36.57,3.66,32.91,True
+ORD-100365,CUST-10311,2025-07-01,Google Shopping,Tablet,London,Anti-Ageing,Mask,2,62.25,0.0,62.25,True
+ORD-100509,CUST-10413,2025-09-24,Google Search,Mobile,Other UK,Anti-Ageing,Set/Bundle,1,52.78,0.0,52.78,True
+ORD-100296,CUST-10074,2025-05-27,Meta Ads,Desktop,Other UK,Anti-Ageing,Serum,1,47.25,0.0,47.25,False
+ORD-100618,CUST-10484,2025-11-22,Google Search,Desktop,London,Hydration & Glow,Moisturiser,1,31.51,0.0,31.51,True
+ORD-100088,CUST-10086,2025-02-23,Meta Ads,Mobile,North West,Sensitive Skin,Serum,2,56.59,0.0,56.59,True
+ORD-101025,CUST-10748,2026-05-28,Meta Ads,Mobile,Scotland,Anti-Ageing,Serum,1,43.03,4.3,38.73,True
+ORD-101053,CUST-10540,2026-06-06,Meta Ads,Desktop,Scotland,Anti-Ageing,Cleanser,1,35.54,0.0,35.54,False
+ORD-100425,CUST-10353,2025-08-06,GOOGLE SHOPPING,Desktop,South East,Acne & Blemish,Serum,2,39.79,0.0,39.79,True
+ORD-100536,CUST-10298,2025-10-09,Google  Search,Desktop,Other UK,Sensitive Skin,SPF,3,77.94,0.0,77.94,False
+ORD-100931,CUST-10690,2026-04-22,affiliate,Mobile,North West,Acne & Blemish,Cleanser,3,53.37,0.0,53.37,True
+ORD-100724,CUST-10550,2026-01-01,Direct,Mobile,South East,Anti-Ageing,SPF,1,58.74,0.0,58.74,False
+ORD-100025,CUST-10025,2025-01-12,Meta Ads,Desktop,South East,Sensitive Skin,Cleanser,1,34.8,0.0,34.8,True
+ORD-101052,CUST-10766,2026-06-06,Organic Search,Desktop,London,Acne & Blemish,SPF,2,31.22,3.12,28.1,True
+ORD-100527,CUST-10133,2025-10-03,Meta Ads,Desktop,South East,Sensitive Skin,Moisturiser,1,35.86,0.0,35.86,False
+ORD-100226,CUST-10203,2025-05-01,Affiliate,Mobile,Other UK,Hydration & Glow,Mask,1,31.07,0.0,31.07,True
+ORD-100932,CUST-10466,2026-04-22,Meta Ads,Tablet,London,Acne & Blemish,Cleanser,1,23.6,0.0,23.6,False
+ORD-100533,CUST-10431,2025-10-08,Organic Search,Desktop,North West,Sensitive Skin,Moisturiser,3,68.7,0.0,68.7,True
+ORD-100151,CUST-10143,29/03/2025,Email,Mobile,North West,Acne & Blemish,SPF,1,25.24,0.0,25.24,True
+ORD-100526,CUST-10301,2025-10-03,organic search,Mobile,South East,Anti-Ageing,Moisturiser,1,51.12,0.0,51.12,False
+ORD-100256,CUST-10226,2025-05-13,Organic Search,Mobile,South East,Acne & Blemish,Cleanser,3,50.76,0.0,50.76,True
+ORD-101059,CUST-10771,09/06/2026,Meta Ads,Mobile,Other UK,Acne & Blemish,Serum,1,24.05,0.0,24.05,True
+ORD-101044,CUST-10156,2026-06-03,Meta Ads,Desktop,Other UK,Anti-Ageing,Moisturiser,2,66.39,0.0,66.39,False
+ORD-100512,CUST-10416,2025-09-25,Google Search,Desktop,London,Hydration & Glow,Mask,2,51.24,0.0,51.24,True
+ORD-100710,CUST-10042,2025-12-22,Meta Ads,Desktop,Other UK,Sensitive Skin,Serum,2,57.2,7.1,50.1,False
+ORD-100468,CUST-10385,2025-09-01,Google_Search,Tablet,Scotland,Acne & Blemish,Mask,2,42.27,0.0,42.27,True
+ORD-100324,CUST-10276,2025-06-10,Email,Desktop,London,Acne & Blemish,SPF,2,34.78,0.0,34.78,True
+ORD-100018,CUST-10018,2025-01-10,Google Shopping,Tablet,North West,Anti-Ageing,Serum,2,65.75,0.0,65.75,True
+ORD-100923,CUST-10685,2026-04-19,Google Search,Tablet,South East,Hydration & Glow,Mask,3,63.54,6.35,57.19,True
+ORD-100945,CUST-10699,2026-04-27,FB/IG Ads,Desktop,South East,Acne & Blemish,Cleanser,1,28.75,0.0,28.75,True
+ORD-100390,CUST-10331,2025-07-16,Google Shopping,Desktop,North West,Acne & Blemish,Cleanser,1,23.01,0.0,23.01,True
+ORD-101015,CUST-10744,2026-05-25,Email,Desktop,London,Anti-Ageing,Mask,2,71.71,0.0,71.71,True
+ORD-100248,CUST-10220,2025-05-09,(direct),Mobile,London,Anti-Ageing,Serum,1,32.35,0.0,32.35,True
+ORD-100711,CUST-10360,2025-12-23,organic search,Mobile,Other UK,Acne & Blemish,SPF,1,25.42,3.12,22.3,False
+ORD-100654,CUST-10505,2025-11-30,SEO,Mobile,Other UK,Anti-Ageing  ,Moisturiser,1,45.32,9.51,35.81,True
+ORD-100860,CUST-10644,2026-03-23,Affiliate ,Desktop,Scotland,Anti-Ageing,Moisturiser,1,45.09,0.0,45.09,True
+ORD-100244,CUST-10115,06/05/2025,Google Search,Tablet,London,Anti-Ageing,Serum,1,32.26,0.0,32.26,False
+ORD-100738,CUST-10562,09/01/2026,GOOGLE SEARCH,Mobile,London,Sensitive Skin,Moisturiser,2,58.99,0.0,58.99,True
+ORD-100848,CUST-10635,18/03/2026,Google Search,Mobile,London,Anti-Ageing,Serum,2,71.94,0.0,71.94,True
+ORD-100047,CUST-10045,2025-02-02,Organic Search,Desktop,Other UK,Acne & Blemish,Cleanser,3,56.14,5.61,50.53,True
+ORD-100744,CUST-10228,2026-01-11,Google Shopping,Desktop,Other UK,Anti-Ageing,Serum,2,64.59,0.0,64.59,False
+ORD-100394,CUST-10335,2025-07-17,Email,Desktop,London,Acne & Blemish,SPF,2,38.82,3.88,34.94,True
+ORD-100216,CUST-10084,28/04/2025,google search,Desktop,Scotland,Anti-Ageing,Serum,2,68.78,0.0,68.78,False
+ORD-100037,CUST-10036,2025-01-26,meta ads,Mobile,South East,Hydration & Glow,Serum,1,36.54,0.0,36.54,True
+ORD-100592,CUST-10238,2025-11-09,Organic Search,Mobile,South East,Acne & Blemish,Cleanser,2,46.37,0.0,46.37,False
+ORD-100537,CUST-10124,2025-10-09,Organic Search,Desktop,London,Anti-Ageing,Serum,1,43.6,0.0,43.6,False
+ORD-100578,CUST-10459,2025-11-02,email,Mobile,London,Acne & Blemish,SPF,1,24.09,0.0,24.09,True
+ORD-100115,CUST-10111,2025-03-10,Email,Tablet,North West,Acne & Blemish,SPF,3,50.17,0.0,50.17,True
+ORD-101000,CUST-10275,2026-05-19,Meta Ads,Desktop,London,Anti-Ageing,Moisturiser,1,47.76,0.0,47.76,False
+ORD-100735,CUST-10559,2026-01-06,FB/IG Ads,Mobile,Other UK,Acne & Blemish,Mask,1,24.21,0.0,24.21,True
+ORD-100877,CUST-10656,2026-03-27,Organic Search,Mobile,London,Hydration & Glow,SPF,2,48.78,0.0,48.78,True
+ORD-100178,CUST-10165,11/04/2025,Affiliate,Desktop,Other UK,Anti-Ageing,Serum,1,45.6,0.0,45.6,True
+ORD-100446,CUST-10368,18/08/2025,Direct,Mobile,South East,Acne & Blemish,Cleanser,3,36.56,0.0,36.56,True
+ORD-101088,CUST-10792,23/06/2026,GOOGLE SEARCH,Desktop,South East,Hydration & Glow,Cleanser,1,31.67,0.0,31.67,True
+ORD-100202,CUST-10185,2025-04-22,Google Search,Mobile,Scotland,Anti-Ageing,Cleanser,2,62.11,6.21,55.9,True
+ORD-100471,CUST-10387,2025-09-03,Google Shopping,Mobile,South East,Hydration & Glow,SPF,1,41.41,0.0,41.41,True
+ORD-100972,CUST-10653,2026-05-10,Email,Desktop,London,Hydration & Glow,Cleanser,1,29.19,0.0,29.19,False
+ORD-100378,CUST-10322,07/07/2025,Organic Search,Desktop,Other UK,Hydration & Glow,Moisturiser,1,30.89,0.0,30.89,True
+ORD-100232,CUST-10209,02/05/2025,EMAIL,Mobile,South East,Hydration & Glow,Mask,1,31.59,0.0,31.59,True
+ORD-100567,CUST-10451,2025-10-28,organic search,Desktop,North West,Anti-Ageing,Serum,2,67.03,6.7,60.33,True
+ORD-100832,CUST-10623,10/03/2026,Google Shopping,Desktop,London,Acne & Blemish,Cleanser,1,26.32,0.0,26.32,True
+ORD-100326,CUST-10278,2025-06-12,Direct,Desktop,Other UK,Hydration & Glow,Moisturiser,1,32.94,0.0,32.94,True
+ORD-100381,CUST-10325,2025-07-08,Facebook/Instagram Ads,Desktop,South East,Sensitive Skin,Moisturiser,1,34.31,0.0,34.31,True
+ORD-100615,CUST-10483,17/11/2025,Email,Mobile,South East,Anti-Ageing,Moisturiser,2,73.55,7.36,66.19,True
+ORD-101071,CUST-10780,2026-06-13,Meta Ads,Tablet,North West,Anti-Ageing,Serum,1,39.9,3.99,35.91,True
+ORD-100981,CUST-10725,2026-05-13,Organic Search,Mobile,Scotland,Hydration & Glow,Moisturiser,1,37.97,0.0,37.97,True
+ORD-100105,CUST-10081,2025-03-03,Organic Search,Desktop,North West,Anti-Ageing,Serum,1,45.42,0.0,45.42,False
+ORD-100947,CUST-10701,2026-04-29,SEO,Mobile,London,Acne & Blemish,Moisturiser,1,29.46,0.0,29.46,True
+ORD-100180,CUST-10166,11/04/2025,Email Marketing,Desktop,London,Anti-Ageing,Serum,2,54.53,0.0,54.53,True
+ORD-100046,CUST-10044,01/02/2025,Email,Mobile,Other UK,Acne & Blemish,Set/Bundle,1,25.55,0.0,25.55,True
+ORD-100704,CUST-10538,2025-12-18,Direct,Desktop,North West,Acne & Blemish,Serum,1,25.92,4.47,21.45,True
+ORD-100648,CUST-10500,2025-11-29,Meta_Ads,Mobile,London,Acne & Blemish,Cleanser,1,23.6,4.9,18.7,True
+ORD-100203,CUST-10141,2025-04-23,Direct,Desktop,South East,Sensitive Skin,Mask,2,69.49,0.0,69.49,False
+ORD-100733,CUST-10558,2026-01-05,Organic Search,Desktop,London,Sensitive Skin,Moisturiser,2,53.39,0.0,53.39,True
+ORD-100815,CUST-10056,2026-03-01,google search,Mobile,Other UK,Hydration & Glow,Moisturiser,2,44.97,0.0,44.97,False
+ORD-100157,CUST-10149,01/04/2025,DIRECT,Desktop,North West,Hydration & Glow,Serum,2,55.01,0.0,55.01,True
+ORD-100258,CUST-10066,2025-05-14,DIRECT,Tablet,South East,Anti-Ageing,Set/Bundle,3,97.24,0.0,97.24,False
+ORD-100520,CUST-10421,30/09/2025,Google Search,Tablet,Other UK,Hydration & Glow,SPF,1,33.27,0.0,33.27,True
+ORD-101047,CUST-10117,04/06/2026,Meta Ads,Mobile,South East,Anti-Ageing,Serum,1,37.38,3.74,33.64,False
+ORD-100847,CUST-10634,2026-03-16,Meta Ads,Mobile,South East,Sensitive Skin,Cleanser,2,59.07,0.0,59.07,True
+ORD-100553,CUST-10443,2025-10-17,Affiliate,Desktop,South East,Acne & Blemish,SPF,1,24.25,0.0,24.25,True
+ORD-100439,CUST-10362,2025-08-14,Email,Desktop,South East,Anti-Ageing,Moisturiser,1,44.82,0.0,44.82,True
+ORD-100454,CUST-10165,23/08/2025,EMAIL,Mobile,Other UK,Anti-Ageing,Cleanser,1,41.53,0.0,41.53,False
+ORD-100260,CUST-10103,2025-05-14,Meta Ads,Desktop,Scotland,Acne & Blemish,Cleanser,2,45.16,0.0,45.16,False
+ORD-100156,CUST-10148,2025-04-01,Email,Desktop,London,Acne & Blemish,Cleanser,1,28.61,0.0,28.61,True
+ORD-100933,CUST-10691,22/04/2026,Google_Shopping,Mobile,South East,Acne & Blemish,Moisturiser,1,28.57,0.0,28.57,True
+ORD-101060,CUST-10420,2026-06-09,Facebook/Instagram Ads,Mobile,North West,Sensitive Skin,Mask,1,35.5,0.0,35.5,False
+ORD-100100,CUST-10098,2025-02-28,Email Marketing,Desktop,North West,Anti-Ageing,Serum,3,77.71,0.0,77.71,True
+ORD-100582,CUST-10112,2025-11-04,google search,Desktop,Other UK,Sensitive Skin,SPF,1,31.7,3.17,28.53,False
+ORD-100908,CUST-10678,14/04/2026,Google Shopping,Desktop,North West,Anti-Ageing,Moisturiser,3,91.48,0.0,91.48,True
+ORD-100482,CUST-10394,2025-09-09,Organic Search,Mobile,North West,Sensitive Skin,Serum,1,31.51,0.0,31.51,True
+ORD-101012,CUST-10742,2026-05-23,Google Shopping,Mobile,Other UK,Acne & Blemish,Serum,1,21.71,0.0,21.71,True
+ORD-100772,CUST-10582,05/02/2026,affiliate,Desktop,Other UK,Sensitive Skin,Serum,1,31.07,0.0,31.07,True
+ORD-100169,CUST-10156,07/04/2025,email,Mobile,Other UK,Anti-Ageing,Mask,2,59.12,0.0,59.12,True
+ORD-100760,CUST-10574,2026-01-28,Google_Shopping,Tablet,North West,Acne & Blemish,Set/Bundle,1,22.8,2.28,20.52,True
+ORD-101104,CUST-10805,2026-06-29,Meta Ads,Mobile,South East,Acne & Blemish,Cleanser,1,24.1,0.0,24.1,True
+ORD-100973,CUST-10719,2026-05-10,Direct,Mobile,Other UK,Sensitive Skin,SPF,1,36.05,3.6,32.45,True
+ORD-101054,CUST-10767,2026-06-07,Email,Desktop,North West,Acne & Blemish,Cleanser,1,27.24,0.0,27.24,True
+ORD-100865,CUST-10647,24/03/2026,Google Search,Mobile,London,Acne & Blemish,Moisturiser,1,24.5,0.0,24.5,True
+ORD-100583,CUST-10463,2025-11-04,Direct,Desktop,London,Sensitive Skin,Cleanser,2,57.17,0.0,57.17,True
+ORD-100595,CUST-10134,10/11/2025,Organic Search,Mobile,South East,Acne & Blemish,Cleanser,1,25.3,0.0,25.3,False
+ORD-100407,CUST-10342,2025-07-26,Google Search,Mobile,North West,Acne & Blemish,SPF,3,45.5,4.55,40.95,True
+ORD-100237,CUST-10187,2025-05-04,Organic Search,Desktop,Other UK,Hydration & Glow,Serum,1,30.01,0.0,30.01,False
+ORD-100951,CUST-10705,2026-05-03,Google Search,Desktop,Other UK,Acne & Blemish,SPF,1,27.23,2.72,24.51,True
+ORD-100338,CUST-10288,18/06/2025,Google Shopping,Tablet,London,Acne & Blemish,Moisturiser,1,28.72,0.0,28.72,True
+ORD-100317,CUST-10271,2025-06-06,Affiliate ,Mobile,Other UK,Hydration & Glow,Moisturiser,3,67.61,0.0,67.61,True
+ORD-101049,CUST-10290,2026-06-05,Meta Ads,Desktop,London,Sensitive Skin,Cleanser,2,54.06,5.41,48.65,False
+ORD-100103,CUST-10101,02/03/2025,Google Shopping,Desktop,South East,Hydration & Glow,Moisturiser,1,34.04,0.0,34.04,True
+ORD-101079,CUST-10784,2026-06-19,Organic Search,Desktop,London,Anti-Ageing,Moisturiser,1,42.49,0.0,42.49,True
+ORD-100603,CUST-10063,13/11/2025,Direct,Mobile,South East,Acne & Blemish,Mask,2,46.83,0.0,46.83,False
+ORD-100515,CUST-10048,27/09/2025,Google_Shopping,Desktop,Other UK,Anti-Ageing,Serum,2,61.97,0.0,61.97,False
+ORD-100111,CUST-10107,07/03/2025,EMAIL,Tablet,Other UK,Sensitive Skin,Cleanser,1,43.94,0.0,43.94,True
+ORD-100684,CUST-10523,2025-12-10,Direct,Desktop,North West,Acne & Blemish,Set/Bundle,1,24.5,2.6,21.9,True
+ORD-100076,CUST-10074,2025-02-16,Meta Ads,Desktop,Other UK,Anti-Ageing,Serum,1,39.5,0.0,39.5,True
+ORD-100651,CUST-10503,2025-11-29,Direct,Tablet,Scotland,Hydration & Glow,Moisturiser,1,34.16,7.92,26.24,True
+ORD-100775,CUST-10585,2026-02-06,Google Search,Tablet,Other UK,Sensitive Skin,Moisturiser,1,34.72,3.47,31.25,True
+ORD-100983,CUST-10726,2026-05-14,Organic Search,Mobile,Scotland,Acne & Blemish,Cleanser,2,41.04,0.0,41.04,True
+ORD-100928,CUST-10688,2026-04-21,Organic Search,Mobile,London,Acne & Blemish,Mask,1,29.32,0.0,29.32,True
+ORD-100706,CUST-10540,19/12/2025,Affiliate,Tablet,Scotland,Anti-Ageing,Cleanser,1,53.14,7.61,45.53,True
+ORD-100844,CUST-10632,2026-03-14,Meta Ads,Mobile,North West,Acne & Blemish,Serum,1,26.66,0.0,26.66,True
+ORD-100138,CUST-10132,2025-03-22,Email,Desktop,London,Acne & Blemish,Cleanser,1,24.22,0.0,24.22,True
+ORD-100913,CUST-10582,2026-04-16,Email,Mobile,Other UK,Sensitive Skin,SPF,1,30.87,0.0,30.87,False
+ORD-100357,CUST-10270,25/06/2025,Organic Search,Desktop,Other UK,Anti-Ageing,Serum,2,46.16,0.0,46.16,False
+ORD-100188,CUST-10174,2025-04-14,Google Search,Desktop,London,Acne & Blemish,Serum,1,27.29,0.0,27.29,True
+ORD-100565,CUST-10399,2025-10-27,Google Search,Tablet,Other UK,Hydration & Glow,Moisturiser,1,26.76,2.68,24.08,False
+ORD-101090,CUST-10794,2026-06-23,Email,Mobile,South East,Acne & Blemish,Moisturiser,1,23.31,0.0,23.31,True
+ORD-100089,CUST-10087,2025-02-24,Google Search,Tablet,Scotland,Anti-Ageing,Set/Bundle,2,48.65,0.0,48.65,True
+ORD-100673,CUST-10318,05/12/2025,Organic Search,Mobile,South East,Sensitive Skin,Cleanser,2,54.23,5.73,48.5,False
+ORD-100702,CUST-10325,2025-12-16,Organic Search,Desktop,South East,Sensitive Skin,Mask,1,29.09,3.71,25.38,False
+ORD-100485,CUST-10366,2025-09-12,Google Search,Mobile,London,Sensitive Skin,SPF,2,61.4,0.0,61.4,False
+ORD-100035,CUST-10034,2025-01-24,Affiliate,Mobile,South East,Sensitive Skin,Cleanser,1,28.5,0.0,28.5,True
+ORD-101005,CUST-10306,2026-05-20,Meta Ads,Desktop,South East,Anti-Ageing,Moisturiser,1,39.83,0.0,39.83,False
+ORD-100302,CUST-10257,2025-05-29,google search,Desktop,Other UK,Acne & Blemish,Mask,2,42.59,0.0,42.59,True
+ORD-100292,CUST-10252,2025-05-25,organic search,Desktop,North West,Acne & Blemish,SPF,2,42.57,0.0,42.57,True
+ORD-100734,CUST-10192,2026-01-05,Email,Desktop,North West,Sensitive Skin,SPF,1,30.96,0.0,30.96,False
+ORD-100714,CUST-10070,25/12/2025,Facebook/Instagram Ads,Desktop,London,Hydration & Glow,Moisturiser,1,32.84,0.0,32.84,False
+ORD-100095,CUST-10093,2025-02-26,Google Search,Desktop,London,Anti-Ageing,Moisturiser,1,49.22,0.0,49.22,True
+ORD-100387,CUST-10171,2025-07-14,Google Search,Mobile,Other UK,Hydration & Glow,SPF,1,31.3,3.13,0.0,False
+ORD-100700,CUST-10535,2025-12-15,Organic Search,Desktop,South East,Sensitive Skin,Cleanser,2,47.73,5.12,42.61,True
+ORD-100030,CUST-10029,2025-01-18,Facebook/Instagram Ads,Desktop,London,Acne & Blemish,Cleanser,2,49.33,4.93,44.4,True
+ORD-100133,CUST-10080,2025-03-19,Meta Ads,Desktop,South East,Hydration & Glow,SPF,1,35.49,0.0,35.49,False
+ORD-100514,CUST-10417,2025-09-25,DIRECT,Mobile,South East,Hydration & Glow,Set/Bundle,2,40.84,4.08,36.76,True
+ORD-100606,CUST-10176,14/11/2025,GOOGLE SEARCH,Mobile,South East,Acne & Blemish,Mask,1,27.59,0.0,27.59,False
+ORD-100817,CUST-10612,2026-03-02,Google Search,Mobile,Scotland,Anti-Ageing,Serum,1,46.32,0.0,46.32,True
+ORD-100691,CUST-10527,13/12/2025,Email,Mobile,London,Hydration & Glow,Mask,1,27.49,5.31,22.18,True
+ORD-100114,CUST-10110,08/03/2025,Organic Search,Mobile,Other UK,Anti-Ageing,Moisturiser,1,35.28,0.0,35.28,True
+ORD-100243,CUST-10032,2025-05-06,Google Search,Mobile,North West,Anti-Ageing,Mask,2,68.91,0.0,68.91,False
+ORD-100840,CUST-10629,2026-03-12,EMAIL,Mobile,London,Hydration & Glow,Cleanser,1,24.8,0.0,24.8,True
+ORD-100899,CUST-10672,2026-04-09,organic search,Desktop,Other UK,Anti-Ageing,Serum,1,38.88,0.0,38.88,True
+ORD-100242,CUST-10216,06/05/2025,Meta Ads,Desktop,London,Hydration & Glow,Serum,2,45.04,0.0,45.04,True
+ORD-100716,CUST-10544,26/12/2025,Organic Search,Desktop,London,Hydration & Glow,SPF,1,31.03,0.0,31.03,True
+ORD-100731,CUST-10556,05/01/2026,Meta Ads,Desktop,Scotland,Sensitive Skin,Moisturiser,1,34.6,0.0,34.6,True
+ORD-100269,CUST-10236,18/05/2025,Direct,Mobile,Other UK,Anti-Ageing,Moisturiser,1,32.84,3.28,29.56,True
+ORD-100406,CUST-10341,25/07/2025,Email,Desktop,London,Hydration & Glow,Serum,1,27.69,0.0,27.69,True
+ORD-100897,CUST-10670,2026-04-07,Email,Mobile,North West,Anti-Ageing,Mask,1,47.25,0.0,47.25,True
+ORD-100490,CUST-10090,2025-09-13,email,Desktop,Other UK,Hydration & Glow,Mask,2,47.56,0.0,47.56,False
+ORD-100022,CUST-10022,12/01/2025,Google Search,Desktop,Other UK,Hydration & Glow,Cleanser,1,28.88,0.0,28.88,True
+ORD-100238,CUST-10212,2025-05-04,Organic Search,Mobile,Scotland,Acne & Blemish,Serum,2,34.87,3.49,31.38,True
+ORD-100063,CUST-10061,2025-02-11,Meta Ads,Mobile,South East,Anti-Ageing,Moisturiser,1,40.7,0.0,40.7,True
+ORD-100027,CUST-10027,2025-01-13,Direct,Mobile,Other UK,Acne & Blemish,Cleanser,1,25.3,0.0,25.3,True
+ORD-100389,CUST-10106,2025-07-15,Google Shopping,Mobile,South East,Anti-Ageing,Cleanser,1,57.12,0.0,57.12,False
+ORD-100078,CUST-10076,16/02/2025,Email,Mobile,North West,Sensitive Skin,Moisturiser,1,35.47,0.0,35.47,True
+ORD-100140,CUST-10133,2025-03-23,Meta Ads,Desktop,South East,Sensitive Skin,Serum,1,43.9,0.0,43.9,True
+ORD-100230,CUST-10207,2025-05-02,google search,Desktop,Other UK,Sensitive Skin,Mask,1,39.73,0.0,39.73,True
+ORD-100386,CUST-10329,2025-07-12,Email,Mobile,London,Hydration & Glow,Moisturiser,2,41.87,0.0,41.87,True
+ORD-100718,CUST-10546,2025-12-29,Meta Ads,Mobile,Other UK,Anti-Ageing,Moisturiser,2,64.52,0.0,64.52,True
+ORD-100467,CUST-10285,31/08/2025,Meta_Ads,Desktop,South East,Anti-Ageing,Set/Bundle,1,48.85,0.0,48.85,False
+ORD-100631,CUST-10494,2025-11-26,Email,Tablet,Other UK,Sensitive Skin,Moisturiser,2,53.13,11.55,41.58,True
+ORD-101033,CUST-10752,30/05/2026,Google Search,Desktop,London,Acne & Blemish,Cleanser,1,21.23,0.0,21.23,True
+ORD-100927,CUST-10687,2026-04-20,Google Shopping,Desktop,Other UK,Acne & Blemish,Serum,1,25.76,2.58,23.18,True
+ORD-100818,CUST-10613,02/03/2026,organic search,Desktop,South East,Sensitive Skin,Moisturiser,1,33.61,0.0,33.61,True
+ORD-100649,CUST-10501,2025-11-29,EMAIL,Desktop,London,Hydration & Glow,Serum,1,35.77,8.16,27.61,True
+ORD-100024,CUST-10024,2025-01-12,FB/IG Ads,Desktop,London,Sensitive Skin,SPF,1,40.33,0.0,40.33,True
+ORD-100426,CUST-10341,2025-08-06,Google Shopping,Mobile,London,Hydration & Glow,Moisturiser,1,25.09,0.0,25.09,False
+ORD-100172,CUST-10159,2025-04-08,Direct,Tablet,London,Hydration & Glow,Moisturiser,1,29.26,2.93,26.33,True
+ORD-100263,CUST-10230,2025-05-15,meta ads,Desktop,Scotland,Anti-Ageing  ,Cleanser,2,64.25,6.43,57.82,True
+ORD-101057,CUST-10769,08/06/2026,Organic Search,Mobile,Scotland,Anti-Ageing,Set/Bundle,2,51.32,0.0,51.32,True
+ORD-100344,CUST-10294,2025-06-20,organic search,Mobile,North West,Sensitive Skin,Mask,2,63.43,0.0,63.43,True
+ORD-100337,CUST-10287,18/06/2025,Google Shopping,Mobile,Other UK,Anti-Ageing,Moisturiser,3,100.43,10.04,90.39,True
+ORD-100043,CUST-10042,01/02/2025,Google Search,Mobile,Other UK,Sensitive Skin,SPF,2,57.15,0.0,57.15,True
+ORD-100619,CUST-10485,2025-11-22,Meta Ads,Desktop,London,Acne & Blemish,Cleanser,3,61.26,0.0,61.26,True
+ORD-100213,CUST-10194,28/04/2025,Email,Desktop,Other UK,Acne & Blemish,Cleanser,2,38.56,0.0,38.56,True
+ORD-100888,CUST-10564,2026-04-03,Meta Ads,Desktop,London,Hydration & Glow,Mask,3,57.71,0.0,57.71,False
+ORD-101097,CUST-10799,2026-06-25,Meta Ads,Tablet,North West,Anti-Ageing,Mask,2,68.27,0.0,68.27,True
+ORD-100996,CUST-10263,2026-05-19,google search,Desktop,London,Hydration & Glow,Moisturiser,2,40.1,0.0,40.1,False
+ORD-100300,CUST-10256,2025-05-28,Email,Mobile,London,Anti-Ageing,Moisturiser,2,62.88,0.0,0.0,True
+ORD-100143,CUST-10136,2025-03-24,Google Search,Desktop,Other UK,Sensitive Skin,Set/Bundle,2,47.26,0.0,47.26,True
+ORD-100788,CUST-10587,13/02/2026,Affiliate,Mobile,Other UK,Sensitive Skin,Cleanser,3,57.58,0.0,57.58,False
+ORD-100400,CUST-10337,21/07/2025,Email,Desktop,North West,Sensitive Skin,Moisturiser,1,42.37,0.0,42.37,True
+ORD-100039,CUST-10038,29/01/2025,Google Shopping,Desktop,South East,Hydration & Glow,Mask,2,44.33,0.0,44.33,True
+ORD-100340,CUST-10290,19/06/2025,Affiliate,Mobile,London,Sensitive Skin,Cleanser,1,35.22,0.0,35.22,True
+ORD-100083,CUST-10081,2025-02-20,Meta Ads,Desktop,North West,Anti-Ageing,Set/Bundle,1,46.31,0.0,46.31,True
+ORD-100674,CUST-10441,2025-12-05,Email Marketing,Desktop,London,Anti-Ageing,Serum,1,39.17,5.29,33.88,False
+ORD-100629,CUST-10493,2025-11-25,Direct,Desktop,London,Sensitive Skin,SPF,1,28.98,7.67,21.31,True
+ORD-101101,CUST-10803,2026-06-27,Meta Ads,Desktop,Scotland,Anti-Ageing,SPF,1,39.13,0.0,39.13,True
+ORD-100722,CUST-10549,2025-12-31,EMAIL,Desktop,London,Sensitive Skin,Serum,2,62.19,0.0,62.19,True
+ORD-100770,CUST-10052,05/02/2026,Google Search,Desktop,Other UK,Sensitive Skin,Cleanser,2,49.99,0.0,49.99,False
+ORD-100360,CUST-10306,28/06/2025,Affiliate,Mobile,South East,Anti-Ageing,Serum,1,44.85,0.0,44.85,True
+ORD-100262,CUST-10229,2025-05-15,Google Shopping,Desktop,Other UK,Hydration & Glow,Moisturiser,1,29.42,2.94,26.48,True
+ORD-100661,CUST-10511,2025-12-02,GOOGLE SEARCH,Mobile,Other UK,Sensitive Skin,Moisturiser,1,32.02,5.9,26.12,True
+ORD-100498,CUST-10407,17/09/2025,Google Shopping,Mobile,London,Anti-Ageing,Cleanser,3,100.18,0.0,100.18,True
+ORD-100903,CUST-10233,2026-04-12,Google  Search,Mobile,South East,Hydration & Glow,Cleanser,2,42.42,0.0,42.42,False
+ORD-100129,CUST-10125,2025-03-18,meta ads,Desktop,North West,Acne & Blemish,Serum,1,23.33,0.0,23.33,True
+ORD-100087,CUST-10085,2025-02-22,Meta Ads,Mobile,London,Anti-Ageing,Mask,1,46.55,0.0,46.55,True
+ORD-100658,CUST-10035,2025-12-01,Organic Search,Desktop,North West,Anti-Ageing,Set/Bundle,3,98.88,15.98,82.9,False
+ORD-100677,CUST-10181,2025-12-06,Email,Desktop,North West,Anti-Ageing,Serum,1,44.18,7.13,37.05,False
+ORD-100278,CUST-10243,2025-05-21,Meta Ads,Tablet,London,Anti-Ageing,SPF,1,51.22,0.0,51.22,True
+ORD-100417,CUST-10346,2025-08-01,FB/IG Ads,Desktop,London,Acne & Blemish,Mask,2,36.72,0.0,36.72,True
+ORD-100217,CUST-10104,28/04/2025,Google Shopping,Mobile,Scotland,Anti-Ageing,Cleanser,1,43.18,4.32,38.86,False
+ORD-101021,CUST-10709,2026-05-26,Google Shopping,Mobile,Other UK,Acne & Blemish,Serum,3,47.38,0.0,47.38,False
+ORD-100570,CUST-10454,2025-10-29,Organic Search,Mobile,London,Anti-Ageing,Cleanser,2,75.97,0.0,75.97,True
+ORD-100970,CUST-10718,2026-05-09,Email Marketing,Mobile,South East,Sensitive Skin,SPF,2,51.27,0.0,51.27,True
+ORD-100199,CUST-10182,2025-04-21,Meta Ads,Tablet,London,Acne & Blemish,Cleanser,1,21.53,2.15,19.38,True
+ORD-100322,CUST-10159,2025-06-09,Google Shopping,Desktop,London,Hydration & Glow,Moisturiser,2,38.88,0.0,-8.99,False
+ORD-100418,CUST-10112,2025-08-01,affiliate,Desktop,Other UK,Sensitive Skin,Mask,1,29.63,0.0,29.63,False
+ORD-100598,CUST-10304,11/11/2025,Organic Search,Desktop,Scotland,Hydration & Glow,Cleanser,1,33.08,0.0,33.08,False
+ORD-100589,CUST-10468,07/11/2025,GOOGLE SEARCH,Mobile,Other UK,Sensitive Skin,Moisturiser,1,44.19,0.0,44.19,True
+ORD-100552,CUST-10062,16/10/2025,Google Search,Mobile,Other UK,Anti-Ageing,Cleanser,1,45.11,0.0,45.11,False
+ORD-100483,CUST-10395,2025-09-10,FB/IG Ads,Mobile,London,Anti-Ageing,Set/Bundle,1,43.59,0.0,43.59,True
+ORD-100436,CUST-10271,14/08/2025,Meta Ads,Mobile,Other UK,Hydration & Glow,Cleanser,1,25.15,0.0,25.15,False
+ORD-100685,CUST-10178,2025-12-11,Direct,Mobile,South East,Hydration & Glow,Mask,1,30.43,6.04,24.39,False
+ORD-100886,CUST-10549,2026-04-01,Direct,Desktop,London,Sensitive Skin,SPF,1,38.71,0.0,38.71,False
+ORD-100210,CUST-10192,2025-04-25,Affiliate,Desktop,North West,Sensitive Skin,SPF,3,74.84,0.0,74.84,True
+ORD-100449,CUST-10370,2025-08-20,direct,Mobile,North West,Hydration & Glow  ,Mask,2,47.52,0.0,47.52,True
+ORD-100793,CUST-10597,14/02/2026,Affiliate,Desktop,Other UK,Acne & Blemish,Serum,1,27.93,0.0,27.93,True
+ORD-100739,CUST-10196,2026-01-10,Google  Search,Desktop,South East,Sensitive Skin,SPF,1,37.05,3.7,33.35,False
+ORD-100481,CUST-10207,2025-09-09,Meta Ads,Desktop,Other UK,Sensitive Skin,Cleanser,1,28.49,0.0,28.49,False
+ORD-100221,CUST-10198,2025-04-30,Direct,Mobile,North West,Acne & Blemish,SPF,1,27.85,2.78,25.07,True
+ORD-101076,CUST-10593,2026-06-16,Direct,Mobile,London,Anti-Ageing,Moisturiser,2,70.08,7.01,63.07,False
+ORD-100276,CUST-10241,19/05/2025,Direct,Mobile,North West,Hydration & Glow,Cleanser,1,32.83,3.28,29.55,True
+ORD-100458,,2025-08-24,Organic Search,Desktop,Other UK,Hydration & Glow,Moisturiser,2,51.76,0.0,51.76,True
+ORD-100984,CUST-10614,15/05/2026,organic search,Desktop,London,Sensitive Skin,Cleanser,1,26.47,2.65,23.82,False
+ORD-100796,CUST-10599,2026-02-16,Organic Search,Desktop,South East,Anti-Ageing,Serum,1,52.16,0.0,52.16,True
+ORD-100397,CUST-10117,2025-07-17,Meta Ads,Desktop,South East,Anti-Ageing,Serum,1,41.72,0.0,41.72,False
+ORD-100179,CUST-10038,2025-04-11,Organic Search,Mobile,South East,Hydration & Glow,Serum,1,31.38,0.0,31.38,False
+ORD-100925,CUST-10649,2026-04-19,Organic_Search,Desktop,Scotland,Hydration & Glow,SPF,2,39.27,0.0,39.27,False
+ORD-100843,CUST-10631,14/03/2026,Google Search,Mobile,North West,Acne & Blemish,Cleanser,1,24.15,0.0,24.15,True
+ORD-100461,CUST-10379,2025-08-28,Meta_Ads,Mobile,London,Hydration & Glow,Serum,2,52.47,0.0,52.47,True
+ORD-100475,CUST-10389,06/09/2025,Meta Ads,Desktop,North West,Hydration & Glow,Moisturiser,1,30.21,0.0,30.21,True
+ORD-101048,CUST-10763,2026-06-05,Google Search,Mobile,London,Acne & Blemish,Cleanser,1,25.05,0.0,25.05,True
+ORD-101043,CUST-10761,2026-06-03,Google Search,Mobile,London,Acne & Blemish,Mask,1,23.42,0.0,23.42,True
+ORD-100868,CUST-10649,25/03/2026,Organic Search,Desktop,Scotland,Hydration & Glow,Serum,1,24.15,0.0,24.15,True
+ORD-100286,CUST-10248,23/05/2025,Meta Ads,Mobile,North West,Sensitive Skin,Mask,1,32.77,0.0,32.77,True
+ORD-100379,CUST-10323,2025-07-08,Email,Tablet,Other UK,Hydration & Glow,Serum,1,34.84,0.0,34.84,True
+ORD-100614,CUST-10005,2025-11-17,Google Search,Mobile,South East,Hydration & Glow  ,Mask,1,30.0,0.0,30.0,False
+ORD-100363,CUST-10309,29/06/2025,Meta Ads,Mobile,Other UK,Acne & Blemish,Cleanser,1,23.98,0.0,23.98,True
+ORD-100836,CUST-10627,2026-03-11,SEO,Desktop,London,Hydration & Glow,SPF,2,62.24,0.0,62.24,True
+ORD-100997,CUST-10592,2026-05-19,Google Search,Desktop,Scotland,Acne & Blemish,Cleanser,1,23.67,0.0,23.67,False
+ORD-101019,CUST-10745,2026-05-26,Email,Desktop,North West,Acne & Blemish,Serum,2,51.15,0.0,51.15,True
+ORD-100173,CUST-10160,2025-04-09,Google Search,Desktop,Scotland,Anti-Ageing,Set/Bundle,1,44.64,4.46,40.18,True
+ORD-100124,CUST-10120,15/03/2025,Organic Search,Desktop,Scotland,Acne & Blemish,Cleanser,1,28.0,0.0,28.0,True
+ORD-100118,CUST-10114,2025-03-10,Organic Search,Mobile,London,Hydration & Glow,Serum,1,31.64,0.0,31.64,True
+ORD-100745,CUST-10224,2026-01-12,Direct,Desktop,South East,Anti-Ageing,SPF,2,57.8,0.0,57.8,False
+ORD-100122,CUST-10118,13/03/2025,Meta_Ads,Mobile,Scotland,Anti-Ageing,Serum,1,37.51,0.0,37.51,True
+ORD-100215,CUST-10195,28/04/2025,Affiliate,Desktop,South East,Hydration & Glow,Cleanser,1,28.92,0.0,28.92,True
+ORD-100453,CUST-10197,2025-08-23,Email,Mobile,London,Sensitive Skin,SPF,1,40.1,0.0,40.1,False
+ORD-100448,CUST-10121,19/08/2025,email,Mobile,London,Anti-Ageing,Serum,3,87.51,0.0,87.51,False
+ORD-100809,CUST-10607,26/02/2026,Google Search,Desktop,London,Anti-Ageing,Moisturiser,1,40.41,0.0,40.41,True
+ORD-100759,CUST-10573,2026-01-27,google search,Mobile,London,Hydration & Glow,Serum,1,28.18,0.0,28.18,True
+ORD-100325,CUST-10277,2025-06-12,Meta Ads,Desktop,North West,Sensitive Skin,SPF,2,54.49,5.45,49.04,True
+ORD-100253,,12/05/2025,Google Search,Desktop,Other UK,Sensitive Skin,Cleanser,1,37.19,0.0,37.19,True
+ORD-100433,CUST-10166,2025-08-12,meta ads,Desktop,London,Anti-Ageing,Set/Bundle,1,43.36,0.0,43.36,False
+ORD-100404,CUST-10227,2025-07-24,Google_Shopping,Mobile,London,Acne & Blemish,Set/Bundle,1,25.21,2.52,22.69,False
+ORD-100820,CUST-10615,2026-03-02,Direct,Mobile,South East,Hydration & Glow,Moisturiser,3,55.51,0.0,55.51,True
+ORD-100327,CUST-10279,2025-06-14,FB/IG Ads,Mobile,South East,Anti-Ageing,Serum,1,47.12,0.0,47.12,True
+ORD-100358,CUST-10304,25/06/2025,Email,Mobile,Scotland,Hydration & Glow,SPF,2,49.27,0.0,49.27,True
+ORD-100850,CUST-10637,2026-03-18,Organic Search,Mobile,London,Hydration & Glow,Moisturiser,1,32.96,0.0,32.96,True
+ORD-100949,CUST-10703,03/05/2026,email,Desktop,South East,Acne & Blemish,Set/Bundle,2,38.55,0.0,38.55,True
+ORD-100272,CUST-10136,19/05/2025,(direct),Mobile,Other UK,Sensitive Skin,Serum,1,35.78,0.0,35.78,False
+ORD-100435,CUST-10360,2025-08-13,Organic Search,Desktop,Other UK,Acne & Blemish,Serum,1,22.44,0.0,22.44,True
+ORD-100804,CUST-10604,2026-02-20,Meta Ads,Desktop,London,Acne & Blemish,Cleanser,2,41.31,0.0,41.31,True
+ORD-100637,CUST-10497,2025-11-27,Organic Search,Mobile,South East,Sensitive Skin,Serum,1,37.5,9.11,28.39,True
+ORD-100625,CUST-10313,2025-11-25,Google Shopping,Desktop,Other UK,Sensitive Skin,Cleanser,1,36.14,12.02,24.12,False
+ORD-100011,CUST-10011,2025-01-06,Organic Search,Desktop,Other UK,Hydration & Glow,Set/Bundle,2,47.74,4.77,42.97,True
+ORD-100830,CUST-10622,09/03/2026,Email,Tablet,North West,Sensitive Skin,Mask,1,25.97,0.0,25.97,True
+ORD-100055,CUST-10053,2025-02-07,Meta Ads,Mobile,London,Sensitive Skin,Cleanser,1,43.85,0.0,43.85,True
+ORD-101072,CUST-10781,2026-06-14,google shopping,Desktop,London,Hydration & Glow,Serum,1,28.77,0.0,28.77,True
+ORD-101064,CUST-10774,2026-06-10,Organic Search,Desktop,London,Hydration & Glow,Moisturiser,1,28.11,0.0,28.11,True
+ORD-100968,CUST-10717,08/05/2026,Google Shopping,Tablet,South East,Sensitive Skin,SPF,1,31.24,0.0,31.24,True
+ORD-100355,CUST-10303,2025-06-24,Organic Search,Mobile,Other UK,Hydration & Glow,Serum,2,51.67,0.0,51.67,True
+ORD-100896,CUST-10669,2026-04-07,Meta Ads,Tablet,London,Acne & Blemish,Cleanser,1,26.09,0.0,26.09,True
+ORD-100141,CUST-10134,2025-03-23,Email,Desktop,South East,Acne & Blemish,Moisturiser,1,23.2,0.0,23.2,True
+ORD-100003,CUST-10003,2025-01-03,Organic Search,Mobile,Other UK,Acne & Blemish,Cleanser,2,31.07,3.11,27.96,True
+ORD-100991,CUST-10733,16/05/2026,Organic Search,Desktop,South East,Acne & Blemish,Cleanser,1,30.92,0.0,30.92,True
+ORD-100542,,10/10/2025,Email,Tablet,South East,Hydration & Glow,Serum,1,35.0,3.5,31.5,True
+ORD-100643,CUST-10237,28/11/2025,Google Search,Mobile,South East,Hydration & Glow,Serum,1,33.43,7.12,26.31,False
+ORD-100907,CUST-10139,2026-04-13,Google Shopping,Desktop,London,Anti-Ageing,Moisturiser,1,46.25,0.0,46.25,False
+ORD-100573,CUST-10258,2025-10-30,affiliate,Desktop,London,Acne & Blemish,Serum,1,24.65,0.0,24.65,False
+ORD-100982,CUST-10385,14/05/2026,Google Shopping,Desktop,Scotland,Acne & Blemish,Serum,1,28.09,0.0,28.09,False
+ORD-100206,CUST-10188,23/04/2025,Organic Search,Desktop,South East,Anti-Ageing,Mask,3,69.23,0.0,69.23,True
+ORD-100015,CUST-10015,2025-01-08,Affiliate,Desktop,Other UK,Anti-Ageing,Mask,2,59.5,0.0,59.5,True
+ORD-100298,CUST-10254,2025-05-28,Google Search,Mobile,North West,Anti-Ageing,Moisturiser,1,40.33,0.0,40.33,True
+ORD-100464,CUST-10382,2025-08-29,SEO,Desktop,Scotland,Acne & Blemish,Cleanser,1,26.33,0.0,26.33,True
+ORD-100153,CUST-10145,2025-03-29,SEO,Mobile,Scotland,Sensitive Skin,Cleanser,1,38.15,0.0,38.15,True
+ORD-100801,CUST-10603,2026-02-19,GOOGLE SEARCH,Mobile,London,Hydration & Glow,Moisturiser,1,34.31,0.0,34.31,True
+ORD-100866,CUST-10648,2026-03-25,Google Shopping,Desktop,North West,Sensitive Skin,Cleanser,1,34.21,3.42,30.79,True
+ORD-100281,CUST-10245,22/05/2025,Organic Search,Mobile,London,Anti-Ageing,Moisturiser,2,61.81,0.0,61.81,True
+ORD-101069,CUST-10778,2026-06-13,Email,Mobile,London,Acne & Blemish,Serum,1,29.99,0.0,29.99,True
+ORD-100967,CUST-10716,08/05/2026,google shopping,Tablet,Other UK,Acne & Blemish,SPF,1,28.42,2.84,25.58,True
+ORD-100185,CUST-10171,2025-04-13,Facebook/Instagram Ads,Mobile,Other UK,Hydration & Glow,SPF,2,45.68,0.0,45.68,True
+ORD-100701,CUST-10536,2025-12-15,Email,Tablet,Other UK,Hydration & Glow,Mask,1,27.23,5.0,22.23,True
+ORD-100561,CUST-10449,2025-10-25,Google Search,Mobile,North West,Anti-Ageing,Mask,1,40.5,0.0,40.5,True
+ORD-100193,CUST-10179,2025-04-19,Google_Shopping,Mobile,South East,Acne & Blemish,Cleanser,1,24.35,0.0,24.35,True
+ORD-100749,CUST-10127,2026-01-15,Affiliate,Tablet,London,Sensitive Skin,Set/Bundle,1,40.67,0.0,40.67,False
+ORD-100798,CUST-10600,17/02/2026,Organic Search,Tablet,Scotland,Hydration & Glow,SPF,1,30.52,0.0,30.52,True
+ORD-100670,CUST-10518,04/12/2025,Facebook/Instagram Ads,Desktop,London,Hydration & Glow,Moisturiser,2,49.05,6.05,43.0,True
+ORD-100420,CUST-10348,2025-08-03,Organic Search,Mobile,Scotland,Hydration & Glow,Mask,1,29.96,0.0,29.96,True
+ORD-100562,CUST-10226,2025-10-25,Organic Search,Mobile,South East,Acne & Blemish,Cleanser,1,19.8,0.0,19.8,False
+ORD-100477,CUST-10391,07/09/2025,Direct,Mobile,Scotland,Hydration & Glow,Set/Bundle,1,31.45,0.0,31.45,True
+ORD-100717,CUST-10545,2025-12-28,Meta Ads,Desktop,South East,Hydration & Glow,Cleanser,1,33.87,3.39,30.48,True
+ORD-100810,CUST-10608,2026-02-26,Google Shopping,Mobile,London,Acne & Blemish,Mask,1,26.27,0.0,26.27,True
+ORD-100419,CUST-10347,02/08/2025,Direct,Desktop,London,Acne & Blemish,Moisturiser,1,26.24,2.62,23.62,True
+ORD-100777,CUST-10587,2026-02-07,Organic Search,Mobile,Other UK,Sensitive Skin,Mask,1,30.87,0.0,30.87,True
+ORD-100664,CUST-10514,02/12/2025,Email,Desktop,Other UK,Acne & Blemish,Mask,1,23.84,4.25,19.59,True
+ORD-100703,CUST-10537,2025-12-17,Google Shopping,Desktop,London,Sensitive Skin,SPF,3,64.13,9.29,54.84,True
+ORD-100455,CUST-10373,23/08/2025,Direct,Desktop,Other UK,Anti-Ageing,Cleanser,1,43.1,0.0,43.1,True
+ORD-100963,CUST-10713,06/05/2026,Email,Mobile,Other UK,Anti-Ageing,Moisturiser,1,42.94,0.0,42.94,True
+ORD-100587,CUST-10335,2025-11-07,Affiliate,Tablet,London,Acne & Blemish,Cleanser,3,62.77,0.0,62.77,False
+ORD-101020,CUST-10115,2026-05-26,Google Search,Mobile,London,Anti-Ageing,Moisturiser,1,38.37,0.0,38.37,False
+ORD-100929,CUST-10689,2026-04-21,Google Shopping,Mobile,South East,Acne & Blemish,Cleanser,1,25.23,0.0,25.23,True
+ORD-101078,CUST-10783,2026-06-19,Meta Ads,Desktop,Other UK,Hydration & Glow,Moisturiser,2,48.55,0.0,48.55,True
+ORD-100382,CUST-10326,2025-07-08,Organic Search,Desktop,North West,Hydration & Glow,Set/Bundle,1,32.87,0.0,32.87,True
+ORD-100571,CUST-10455,2025-10-29,Google Search,Mobile,South East,Sensitive Skin,SPF,1,28.6,0.0,28.6,True
+ORD-100912,CUST-10115,2026-04-16,EMAIL,Desktop,London,Anti-Ageing,SPF,1,51.05,0.0,51.05,False
+ORD-100680,CUST-10089,2025-12-08,google shopping,Mobile,London,Sensitive Skin,SPF,2,54.36,7.8,46.56,False
+ORD-100175,CUST-10162,2025-04-09,Meta Ads,Mobile,Scotland,Sensitive Skin,Cleanser,2,58.77,0.0,58.77,True
+ORD-100484,CUST-10396,11/09/2025,Google Search,Desktop,North West,Sensitive Skin,SPF,2,59.44,0.0,59.44,True
+ORD-100660,CUST-10510,2025-12-01,Organic Search,Mobile,North West,Acne & Blemish,SPF,1,23.48,3.99,19.49,True
+ORD-100835,CUST-10626,11/03/2026,Organic Search,Desktop,South East,Anti-Ageing,Serum,2,75.01,0.0,75.01,True
+ORD-100768,CUST-10579,2026-02-03,Affiliate,Desktop,London,Acne & Blemish,Cleanser,1,29.48,0.0,29.48,True
+ORD-100007,CUST-10007,2025-01-04,direct,Desktop,North West,Sensitive Skin,Moisturiser,2,43.08,0.0,43.08,True
+ORD-100099,CUST-10097,2025-02-27,email,Mobile,South East,Hydration & Glow,Mask,3,68.03,0.0,68.03,True
+ORD-100789,CUST-10084,2026-02-14,Google Search,Desktop,Scotland,Anti-Ageing,Cleanser,1,34.88,0.0,34.88,False
+ORD-100106,CUST-10103,03/03/2025,Email,Desktop,Scotland,Acne & Blemish,Set/Bundle,1,27.05,0.0,27.05,True
+ORD-100757,CUST-10571,2026-01-24,Direct,Tablet,North West,Anti-Ageing,Serum,1,46.25,0.0,46.25,True
+ORD-100952,CUST-10706,03/05/2026,Affiliate,Mobile,South East,Anti-Ageing,Set/Bundle,1,40.31,4.03,36.28,True
+ORD-100762,CUST-10576,29/01/2026,Google Shopping,Mobile,London,Hydration & Glow,Mask,1,33.75,3.38,30.37,True
+ORD-100119,CUST-10115,2025-03-11,Google Search,Mobile,London,Anti-Ageing,Moisturiser,1,42.15,0.0,42.15,True
+ORD-100207,CUST-10189,2025-04-23,Google Search,Mobile,South East,Acne & Blemish,Cleanser,1,26.11,0.0,26.11,True
+ORD-100113,CUST-10109,08/03/2025,Meta Ads,Mobile,London,Acne & Blemish,SPF,3,61.89,0.0,61.89,True
+ORD-100529,CUST-10427,2025-10-05,Organic Search,Desktop,North West,Sensitive Skin,Moisturiser,1,30.6,0.0,30.6,True
+ORD-100305,CUST-10259,31/05/2025,Organic Search,Tablet,South East,Acne & Blemish,Moisturiser,1,23.07,2.31,20.76,True
+ORD-101094,CUST-10559,2026-06-25,Organic Search,Desktop,Other UK,Acne & Blemish,Cleanser,1,30.09,0.0,30.09,False
+ORD-100020,CUST-10020,11/01/2025,Meta Ads,Desktop,South East,Sensitive Skin,Mask,3,68.46,0.0,68.46,True
+ORD-100427,CUST-10354,2025-08-07,Facebook/Instagram Ads,Mobile,North West,Acne & Blemish,Set/Bundle,2,52.8,0.0,52.8,True
+ORD-100743,CUST-10564,2026-01-10,Meta Ads,Mobile,London,Hydration & Glow,Mask,1,31.78,0.0,31.78,True
+ORD-100008,CUST-10008,2025-01-05,Meta Ads,Mobile,North West,Hydration & Glow,Moisturiser,1,31.78,0.0,31.78,True
+ORD-100995,CUST-10679,2026-05-19,Direct,Mobile,North West,Anti-Ageing,Mask,2,59.32,0.0,59.32,False
+ORD-100842,CUST-10553,2026-03-13,Meta Ads,Mobile,London,Hydration & Glow,Cleanser,1,32.18,0.0,32.18,False
+ORD-100352,CUST-10301,23/06/2025,Google_Shopping,Mobile,South East,Anti-Ageing,SPF,1,42.08,4.21,37.87,True
+ORD-100635,CUST-10496,2025-11-26,Meta Ads,Mobile,Other UK,Acne & Blemish,Cleanser,2,37.84,9.13,28.71,True
+ORD-100424,CUST-10352,2025-08-05,Google Shopping,Tablet,North West,Acne & Blemish,Set/Bundle,1,31.83,0.0,31.83,True
+ORD-100451,CUST-10372,22/08/2025,Meta Ads,Desktop,North West,Anti-Ageing,Moisturiser,1,38.01,0.0,38.01,True
+ORD-101096,CUST-10798,25/06/2026,Meta Ads,Desktop,London,Acne & Blemish,Cleanser,1,25.76,0.0,25.76,True
+ORD-100200,CUST-10183,2025-04-21,Organic Search,Desktop,North West,Anti-Ageing,Cleanser,1,37.46,0.0,37.46,True
+ORD-100423,CUST-10351,2025-08-04,Organic Search,Desktop,North West,Acne & Blemish,Cleanser,1,20.27,0.0,20.27,True
+ORD-101027,CUST-10507,2026-05-29,Email,Desktop,South East,Anti-Ageing,Set/Bundle,2,62.55,0.0,62.55,False
+ORD-100942,CUST-10383,2026-04-26,Google Search,Mobile,London,Sensitive Skin,SPF,1,33.07,0.0,33.07,False
+ORD-100560,CUST-10448,2025-10-24,Direct,Desktop,North West,Hydration & Glow,Moisturiser,2,38.59,0.0,38.59,True
+ORD-100736,CUST-10560,07/01/2026,Email,Mobile,Other UK,Anti-Ageing,Mask,1,31.23,0.0,31.23,True
+ORD-100029,CUST-10018,2025-01-17,Organic Search,Desktop,North West,Anti-Ageing,Moisturiser,1,48.31,0.0,48.31,False
+ORD-100989,CUST-10731,2026-05-16,Google_Search,Mobile,North West,Sensitive Skin,Mask,1,28.97,0.0,28.97,True
+ORD-100713,CUST-10141,2025-12-24,(direct),Desktop,South East,Sensitive Skin,Serum,1,32.99,6.59,26.4,False
+ORD-100534,CUST-10432,09/10/2025,Organic Search,Mobile,North West,Anti-Ageing,Serum,3,96.48,0.0,96.48,True
+ORD-100686,CUST-10524,11/12/2025,EMAIL,Desktop,London,Hydration & Glow,Set/Bundle,1,34.25,4.53,29.72,True
+ORD-101045,CUST-10762,04/06/2026,Google Shopping,Mobile,London,Anti-Ageing,Serum,1,39.52,0.0,39.52,True
+ORD-101056,CUST-10768,2026-06-08,Google Search,Desktop,South East,Anti-Ageing,Moisturiser,1,47.37,0.0,47.37,True
+ORD-100599,CUST-10474,2025-11-12,Google Search,Mobile,Other UK,Acne & Blemish,Cleanser,2,39.2,0.0,39.2,True
+ORD-100576,CUST-10458,2025-11-01,Affiliate,Tablet,Other UK,Acne & Blemish,Cleanser,1,28.24,0.0,0.0,True
+ORD-100492,CUST-10402,2025-09-14,Google Search,Mobile,North West,Hydration & Glow,Set/Bundle,2,49.68,4.97,44.71,True
+ORD-100348,CUST-10298,2025-06-22,Google Search,Desktop,Other UK,Sensitive Skin,Mask,2,49.12,0.0,49.12,True
+ORD-100495,CUST-10405,16/09/2025,Google Search,Mobile,Other UK,Anti-Ageing,Moisturiser,2,57.07,0.0,57.07,True
+ORD-101034,CUST-10753,2026-05-31,GOOGLE SHOPPING,Desktop,London,Anti-Ageing,Serum,1,42.67,0.0,42.67,True
+ORD-100323,CUST-10275,2025-06-09,SEO,Mobile,London,Anti-Ageing,SPF,3,87.95,0.0,87.95,True
+ORD-100411,CUST-10344,2025-07-28,Google_Shopping,Tablet,North West,Acne & Blemish,Mask,3,45.75,4.58,41.17,True
+ORD-100171,CUST-10158,07/04/2025,Google Search,Mobile,South East,Anti-Ageing,Moisturiser,1,38.67,0.0,38.67,True
+ORD-100828,CUST-10621,2026-03-06,Email,Desktop,North West,Sensitive Skin,Moisturiser,3,82.02,0.0,82.02,True
+ORD-100950,CUST-10704,03/05/2026,SEO,Mobile,South East,Acne & Blemish,Serum,3,55.21,0.0,55.21,True
+ORD-100965,CUST-10692,2026-05-06,Email,Desktop,South East,Sensitive Skin,Moisturiser,1,33.82,0.0,33.82,False
+ORD-100564,CUST-10450,26/10/2025,Meta Ads,Desktop,South East,Acne & Blemish,SPF,1,25.18,0.0,25.18,True
+ORD-100778,CUST-10588,2026-02-09,Direct,Desktop,London,Acne & Blemish,Cleanser,1,28.29,0.0,28.29,True
+ORD-100441,CUST-10364,2025-08-15,google search,Desktop,Other UK,Acne & Blemish,SPF,2,36.25,3.62,32.63,True
+ORD-100350,CUST-10300,23/06/2025,Google  Search,Mobile,South East,Sensitive Skin,Cleanser,1,37.61,0.0,37.61,True
+ORD-100271,CUST-10237,19/05/2025,Email,Mobile,South East,Hydration & Glow,Mask,1,31.74,0.0,31.74,True
+ORD-100144,CUST-10137,2025-03-25,Google Search,Tablet,Other UK,Sensitive Skin,Moisturiser,1,33.86,0.0,33.86,True
+ORD-101086,CUST-10790,2026-06-22,Google Search,Desktop,London,Acne & Blemish,Serum,1,27.02,2.7,24.32,True
+ORD-100270,CUST-10127,19/05/2025,Direct,Mobile,London,Sensitive Skin,Serum,2,56.64,0.0,56.64,False
+ORD-100621,CUST-10487,2025-11-23,Google Search,Mobile,Other UK,Anti-Ageing,Cleanser,1,38.61,0.0,38.61,True
+ORD-100668,CUST-10516,2025-12-04,Google Search,Mobile,Other UK,Hydration & Glow,Set/Bundle,2,49.47,5.36,44.11,True
+ORD-100459,CUST-10377,2025-08-25,EMAIL,Mobile,London,Acne & Blemish,SPF,1,28.49,0.0,28.49,True
+ORD-100116,CUST-10112,2025-03-10,Google Search,Desktop,Other UK,Sensitive Skin,Set/Bundle,1,28.15,2.82,25.33,True
+ORD-100829,CUST-10599,2026-03-07,FB/IG Ads,Desktop,South East,Anti-Ageing,Serum,2,73.25,0.0,73.25,False
+ORD-100463,CUST-10381,2025-08-29,FB/IG Ads,Mobile,London,Acne & Blemish,Moisturiser,1,23.26,2.33,20.93,True
+ORD-100049,CUST-10047,03/02/2025,Organic Search,Desktop,South East,Anti-Ageing,Cleanser,1,36.99,0.0,36.99,True
+ORD-100852,CUST-10639,2026-03-19,google search,Mobile,North West,Acne & Blemish,Moisturiser,1,23.96,0.0,23.96,True
+ORD-100137,CUST-10131,2025-03-22,Email,Desktop,Scotland,Anti-Ageing,Moisturiser,1,36.71,0.0,36.71,True
+ORD-100987,CUST-10729,2026-05-16,Google Search,Desktop,North West,Hydration & Glow,Cleanser,2,45.19,4.52,40.67,True
+ORD-100134,CUST-10128,20/03/2025,Email,Mobile,London,Hydration & Glow,Moisturiser,3,63.27,0.0,63.27,True
+ORD-100362,CUST-10308,2025-06-29,Organic Search,Desktop,London,Sensitive Skin,SPF,1,41.4,4.14,37.26,True
+ORD-100452,CUST-10054,2025-08-23,Organic Search,Mobile,Scotland,Sensitive Skin,Cleanser,2,53.38,5.34,48.04,False

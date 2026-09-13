@@ -29,6 +29,7 @@ This project mirrors how a real analytics workflow scales with data volume, rath
 
 ## Repository Structure
 ```
+data/raw/     → Original uncleaned CSV files (before any cleaning)
 excel/ → Initial data cleaning (XLOOKUP, duplicate detection, PivotTable/PivotChart)
 sql/ → MySQL scripts: staging/cleaning, production views, analysis queries
 powerbi/ → The Power BI report file (.pbix)
